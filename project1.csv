@@ -1,0 +1,1001 @@
+state,city,restaurant_name,location,category,dish_name,price_inr,rating,rating_count,order_date,id
+Karnataka,Bengaluru,"Anand Sweets & Savouries","Rajarajeshwari Nagar",Snack,"Butter Murukku-200gm",133.90,4,0,2025-06-29,1
+Karnataka,Bengaluru,"Srinidhi Sagar Deluxe",Kengeri,Recommended,"Badam Milk",52.00,4,25,2025-04-03,2
+Karnataka,Bengaluru,"Srinidhi Sagar Deluxe",Kengeri,Recommended,"Chow Chow Bath",117.00,5,48,2025-01-15,3
+Karnataka,Bengaluru,"Srinidhi Sagar Deluxe",Kengeri,Recommended,"Kesari Bath",65.00,5,65,2025-04-17,4
+Karnataka,Bengaluru,"Srinidhi Sagar Deluxe",Kengeri,Recommended,"Mix Raitha",130.00,4,0,2025-03-13,5
+Karnataka,Bengaluru,"Srinidhi Sagar Deluxe",Kengeri,Recommended,"Srinidhi Sagar Special",312.00,4,0,2025-07-08,6
+Karnataka,Bengaluru,"Srinidhi Sagar Deluxe",Kengeri,Recommended,"Garlic Naan",98.00,4,34,2025-01-21,7
+Karnataka,Bengaluru,"Srinidhi Sagar Deluxe",Kengeri,Recommended,Pista,137.00,4,0,2025-04-13,8
+Karnataka,Bengaluru,"Srinidhi Sagar Deluxe",Kengeri,"North Indian Gravy","Panneer Butter Masala",241.00,4,29,2025-05-02,9
+Karnataka,Bengaluru,"Srinidhi Sagar Deluxe",Kengeri,"North Indian Gravy","Dal Tadka",195.00,5,51,2025-07-30,10
+Karnataka,Bengaluru,"Srinidhi Sagar Deluxe",Kengeri,"North Indian Gravy","Kaju Masla",312.00,4,0,2025-08-03,11
+Karnataka,Bengaluru,"Srinidhi Sagar Deluxe",Kengeri,"Ice Creams In Cup","Pineapple                ",91.00,4,0,2025-07-24,12
+Karnataka,Bengaluru,"Srinidhi Sagar Deluxe",Kengeri,"North Indian Gravy","Palak Panner",234.00,4,0,2025-03-16,13
+Karnataka,Bengaluru,"Srinidhi Sagar Deluxe",Kengeri,"North Indian Gravy","Panneer Kofta",286.00,4,0,2025-07-22,14
+Karnataka,Bengaluru,"Srinidhi Sagar Deluxe",Kengeri,"North Indian Gravy","Panneer Burji",312.00,4,0,2025-03-29,15
+Karnataka,Bengaluru,"Srinidhi Sagar Deluxe",Kengeri,"North Indian Gravy","Panneer Shahi Kurma",286.00,5,4,2025-04-27,16
+Karnataka,Bengaluru,"Srinidhi Sagar Deluxe",Kengeri,"North Indian Gravy","Malai Kofta",260.00,4,26,2025-04-10,17
+Karnataka,Bengaluru,"Srinidhi Sagar Deluxe",Kengeri,"North Indian Gravy","Navarathna Kurma (Sweet Dish)",299.00,4,0,2025-04-14,18
+Karnataka,Bengaluru,"Srinidhi Sagar Deluxe",Kengeri,"North Indian Gravy","Mushroom Masala",247.00,4,24,2025-06-01,19
+Karnataka,Bengaluru,"Srinidhi Sagar Deluxe",Kengeri,"North Indian Gravy","Veg Kofta",260.00,4,16,2025-05-11,20
+Karnataka,Bengaluru,"Srinidhi Sagar Deluxe",Kengeri,"North Indian Gravy","Dum Aloo Kashmiri (Sweet Dish)",286.00,4,0,2025-05-30,21
+Karnataka,Bengaluru,"Srinidhi Sagar Deluxe",Kengeri,"Fresh Fruit Milkshakes","Pomegranate   ",117.00,5,3,2025-06-28,22
+Karnataka,Bengaluru,"Srinidhi Sagar Deluxe",Kengeri,"North Indian Gravy","Panneer Guchi",260.00,4,0,2025-02-22,23
+Karnataka,Bengaluru,"Srinidhi Sagar Deluxe",Kengeri,"North Indian Gravy","Stuffed Capsicum",260.00,4,0,2025-01-02,24
+Karnataka,Bengaluru,"Srinidhi Sagar Deluxe",Kengeri,"North Indian Gravy","Stuffed Tomato",260.00,4,0,2025-03-29,25
+Karnataka,Bengaluru,"Srinidhi Sagar Deluxe",Kengeri,"North Indian Gravy","Veg Do Pyaza",260.00,4,9,2025-08-24,26
+Karnataka,Bengaluru,"Srinidhi Sagar Deluxe",Kengeri,"North Indian Gravy","Veg Shahi Kuma",260.00,4,0,2025-06-07,27
+Karnataka,Bengaluru,"Srinidhi Sagar Deluxe",Kengeri,"North Indian Gravy","Mix Veg Curry",234.00,4,20,2025-02-07,28
+Karnataka,Bengaluru,"Srinidhi Sagar Deluxe",Kengeri,"North Indian Gravy","Veg Kheema",247.00,4,0,2025-05-10,29
+Karnataka,Bengaluru,"Srinidhi Sagar Deluxe",Kengeri,"North Indian Gravy","Veg Makkanvala",247.00,4,0,2025-07-11,30
+Karnataka,Bengaluru,"Srinidhi Sagar Deluxe",Kengeri,"Fresh Fruit Milkshakes","Mango   ",117.00,4,0,2025-02-16,31
+Karnataka,Bengaluru,"Srinidhi Sagar Deluxe",Kengeri,"North Indian Gravy","Channa Masala",195.00,5,1,2025-07-07,32
+Karnataka,Bengaluru,"Srinidhi Sagar Deluxe",Kengeri,"Fresh Fruit Milkshakes","Chikku   ",117.00,4,0,2025-04-06,33
+Karnataka,Bengaluru,"Srinidhi Sagar Deluxe",Kengeri,"North Indian Gravy","Capsicum Masala",221.00,5,19,2025-01-21,34
+Karnataka,Bengaluru,"Srinidhi Sagar Deluxe",Kengeri,"North Indian Gravy","Baby Corn Masala",221.00,4,0,2025-06-10,35
+Karnataka,Bengaluru,"Srinidhi Sagar Deluxe",Kengeri,"North Indian Gravy","Panneer Mutter",221.00,4,0,2025-07-23,36
+Karnataka,Bengaluru,"Srinidhi Sagar Deluxe",Kengeri,"North Indian Gravy","Aloo Palak",221.00,4,0,2025-02-27,37
+Karnataka,Bengaluru,"Nisarga Family Daba","Rajarajeshwari Nagar",Recommended,"Curd Rice",160.00,5,5,2025-05-19,38
+Karnataka,Bengaluru,"Srinidhi Sagar Deluxe",Kengeri,"North Indian Gravy","Aloo Mutter",195.00,4,0,2025-01-22,39
+Karnataka,Bengaluru,"Srinidhi Sagar Deluxe",Kengeri,"Fresh Fruit Milkshakes","Strawberry   ",117.00,4,0,2025-08-19,40
+Karnataka,Bengaluru,"Srinidhi Sagar Deluxe",Kengeri,"North Indian Gravy","Mutter Masala",208.00,4,0,2025-08-24,41
+Karnataka,Bengaluru,"Srinidhi Sagar Deluxe",Kengeri,"North Indian Gravy","Gobi Masla",195.00,4,0,2025-03-30,42
+Karnataka,Bengaluru,"Srinidhi Sagar Deluxe",Kengeri,"North Indian Gravy","Dal Palak",195.00,2,9,2025-02-18,43
+Karnataka,Bengaluru,"Srinidhi Sagar Deluxe",Kengeri,"North Indian Gravy","Plain Palak",195.00,4,0,2025-08-07,44
+Karnataka,Bengaluru,"Srinidhi Sagar Deluxe",Kengeri,"North Indian Gravy","Dal Fry",182.00,4,68,2025-02-28,45
+Karnataka,Bengaluru,"Srinidhi Sagar Deluxe",Kengeri,"North Indian Gravy","Dal Punjabi",195.00,3,16,2025-06-19,46
+Karnataka,Bengaluru,"Srinidhi Sagar Deluxe",Kengeri,"North Indian Gravy","Aloo Gobi Masala",195.00,4,19,2025-08-08,47
+Karnataka,Bengaluru,"Srinidhi Sagar Deluxe",Kengeri,"North Indian Gravy","Aloo Jeera Dry",169.00,4,0,2025-07-07,48
+Karnataka,Bengaluru,"Srinidhi Sagar Deluxe",Kengeri,"North Indian Rice","Veg Biriyani",195.00,4,22,2025-07-27,49
+Karnataka,Bengaluru,"Srinidhi Sagar Deluxe",Kengeri,"Fresh Fruit Milkshakes","Muskmelon   ",117.00,4,0,2025-08-29,50
+Karnataka,Bengaluru,"Nisarga Family Daba","Rajarajeshwari Nagar",Recommended,"Biriyani Rice",90.00,4,6,2025-08-28,51
+Karnataka,Bengaluru,"Srinidhi Sagar Deluxe",Kengeri,"North Indian Rice","Dal Kichdi",221.00,5,18,2025-01-15,52
+Karnataka,Bengaluru,"Srinidhi Sagar Deluxe",Kengeri,"Fresh Fruit Milkshakes","Apple   ",117.00,4,0,2025-02-21,53
+Karnataka,Bengaluru,"Srinidhi Sagar Deluxe",Kengeri,"North Indian Rice","Mughlai Biriyani",247.00,5,9,2025-07-09,54
+Karnataka,Bengaluru,"Srinidhi Sagar Deluxe",Kengeri,"North Indian Rice","Palak Rice",221.00,5,27,2025-07-09,55
+Karnataka,Bengaluru,"Srinidhi Sagar Deluxe",Kengeri,"North Indian Rice","Veg Handi Biriyani",247.00,4,0,2025-06-24,56
+Karnataka,Bengaluru,"Srinidhi Sagar Deluxe",Kengeri,"North Indian Rice","Mushroom Biriyani",247.00,5,6,2025-07-09,57
+Karnataka,Bengaluru,"Nisarga Family Daba","Rajarajeshwari Nagar","Non Veg Starter","Chicken Kabab",239.00,4,0,2025-05-24,58
+Karnataka,Bengaluru,"Srinidhi Sagar Deluxe",Kengeri,"Fresh Fruit Milkshakes","Banana   ",117.00,4,0,2025-04-06,59
+Karnataka,Bengaluru,"Nisarga Family Daba","Rajarajeshwari Nagar","Non Veg Starter","Chicken Ghee Roast",249.00,4,0,2025-04-07,60
+Karnataka,Bengaluru,"Srinidhi Sagar Deluxe",Kengeri,Raitha,"Mix Raitha",130.00,4,0,2025-05-12,61
+Karnataka,Bengaluru,"Srinidhi Sagar Deluxe",Kengeri,Raitha,"Boondi Raitha",130.00,4,0,2025-08-10,62
+Karnataka,Bengaluru,"Srinidhi Sagar Deluxe",Kengeri,"North Indian Rice","Hyderabadhi Biriyani",247.00,5,3,2025-02-20,63
+Karnataka,Bengaluru,"Nisarga Family Daba","Rajarajeshwari Nagar","Non Veg Starter","Chicken Pepper Dry",239.00,4,0,2025-07-20,64
+Karnataka,Bengaluru,"Srinidhi Sagar Deluxe",Kengeri,"North Indian Rice","Kashmiri Biriyani ( Sweet Rice)",260.00,4,0,2025-04-18,65
+Karnataka,Bengaluru,"Srinidhi Sagar Deluxe",Kengeri,"North Indian Rice","Veg Pulav",195.00,4,2,2025-02-24,66
+Karnataka,Bengaluru,"Srinidhi Sagar Deluxe",Kengeri,"North Indian Rice","Palak Kichdi",221.00,4,0,2025-03-05,67
+Karnataka,Bengaluru,"Srinidhi Sagar Deluxe",Kengeri,"North Indian Rice","Peas Biriyani",208.00,4,0,2025-05-11,68
+Karnataka,Bengaluru,"Srinidhi Sagar Deluxe",Kengeri,Raitha,"Aloo Raitha",130.00,4,0,2025-08-17,69
+Karnataka,Bengaluru,"Srinidhi Sagar Deluxe",Kengeri,"North Indian Rice","Peas Pulav",195.00,4,0,2025-08-17,70
+Karnataka,Bengaluru,"Srinidhi Sagar Deluxe",Kengeri,"North Indian Rice","Basmathi Rice",130.00,4,0,2025-02-20,71
+Karnataka,Bengaluru,"Srinidhi Sagar Deluxe",Kengeri,"Manchurian & Chilly","Panneer Manchurian",247.00,4,0,2025-05-15,72
+Karnataka,Bengaluru,"Srinidhi Sagar Deluxe",Kengeri,"Manchurian & Chilly","Panner Pepper Dry",260.00,5,3,2025-01-21,73
+Karnataka,Bengaluru,"Srinidhi Sagar Deluxe",Kengeri,"Manchurian & Chilly","Gobi Chilly",195.00,4,5,2025-03-14,74
+Karnataka,Bengaluru,"Srinidhi Sagar Deluxe",Kengeri,"Manchurian & Chilly","Paneer Chilly",260.00,4,4,2025-06-16,75
+Karnataka,Bengaluru,"Nisarga Family Daba","Rajarajeshwari Nagar","Non Veg Starter","Mutton Pepper Dry",440.00,4,0,2025-05-04,76
+Karnataka,Bengaluru,"Srinidhi Sagar Deluxe",Kengeri,"Manchurian & Chilly","Panner 65",260.00,4,0,2025-01-18,77
+Karnataka,Bengaluru,"Nisarga Family Daba","Rajarajeshwari Nagar","Non Veg Starter","French Chicken",239.00,4,0,2025-07-06,78
+Karnataka,Bengaluru,"Nisarga Family Daba","Rajarajeshwari Nagar","Non Veg Starter","Mutton Maharaja",440.00,4,0,2025-02-16,79
+Karnataka,Bengaluru,"Nisarga Family Daba","Rajarajeshwari Nagar","Non Veg Starter","Prawns Chilly",440.00,4,0,2025-07-27,80
+Karnataka,Bengaluru,"Swadh Restaurant","Kanmanike Village","Breakfast Combos","Egg Dosa",99.00,4,0,2025-02-20,81
+Karnataka,Bengaluru,"Swadh Restaurant","Kanmanike Village","Breakfast Combos","Egg Appam",35.00,4,0,2025-07-01,82
+Karnataka,Bengaluru,"Nisarga Family Daba","Rajarajeshwari Nagar","Non Veg Starter","Mutton Chilly",440.00,4,0,2025-04-03,83
+Karnataka,Bengaluru,"Swadh Restaurant","Kanmanike Village","Breakfast Combos","Kerala Masala Dosa",110.00,4,0,2025-01-08,84
+Karnataka,Bengaluru,"Sri Vinayaka Hot Chips",Bidadi,Snacks,"Spicy potato chips [500 gms]",245.00,4,0,2025-01-27,85
+Karnataka,Bengaluru,"Nisarga Family Daba","Rajarajeshwari Nagar","Non Veg Starter","Chilly Chicken",239.00,4,0,2025-01-03,86
+Karnataka,Bengaluru,"Srinidhi Sagar Deluxe",Kengeri,Raitha,"Cucumber Raitha",117.00,4,0,2025-05-31,87
+Karnataka,Bengaluru,"Srinidhi Sagar Deluxe",Kengeri,Raitha,"Pineapple Raitha",130.00,4,0,2025-08-19,88
+Karnataka,Bengaluru,"Srinidhi Sagar Deluxe",Kengeri,"Salad & Papad","Masala Papad",91.00,5,36,2025-08-25,89
+Karnataka,Bengaluru,"Sri Vinayaka Hot Chips",Bidadi,Snacks,"Spicy potato chips [250 gms]",95.00,4,0,2025-01-27,90
+Karnataka,Bengaluru,"Sri Vinayaka Hot Chips",Bidadi,Snacks,"Masala peanuts",85.00,4,0,2025-08-14,91
+Karnataka,Bengaluru,"Sri Vinayaka Hot Chips",Bidadi,Snacks,"Ribban pakoda [250 gms]",95.00,4,0,2025-01-21,92
+Karnataka,Bengaluru,"Sri Vinayaka Hot Chips",Bidadi,Snacks,"Combo for all boties wheel, onion, garlic, triangle, yellow boti",50.00,4,0,2025-01-30,93
+Karnataka,Bengaluru,"Sri Vinayaka Hot Chips",Bidadi,Snacks,"Jackfruit chips",70.00,4,0,2025-04-07,94
+Karnataka,Bengaluru,"Sri Vinayaka Hot Chips",Bidadi,Snacks,"Salted popcorn medium size",30.00,4,0,2025-01-28,95
+Karnataka,Bengaluru,"Sri Vinayaka Hot Chips",Bidadi,Snacks,"Palak chakli 15 pcs",45.00,4,0,2025-04-21,96
+Karnataka,Bengaluru,"Sri Vinayaka Hot Chips",Bidadi,Snacks,"Spicy chakli 24 pcs",85.00,4,0,2025-07-11,97
+Karnataka,Bengaluru,"Sri Vinayaka Hot Chips",Bidadi,Snacks,"Kara pori (spicy mure mure)",45.00,4,0,2025-08-13,98
+Karnataka,Bengaluru,"Sri Vinayaka Hot Chips",Bidadi,Snacks,"Triangle boti [100 gms]",50.00,4,0,2025-07-16,99
+Karnataka,Bengaluru,"Sri Vinayaka Hot Chips",Bidadi,Snacks,"Potato spring chips (sabudana) 70 gm",35.00,4,0,2025-02-16,100
+Karnataka,Bengaluru,"Sri Vinayaka Hot Chips",Bidadi,Snacks,"Tomato chips [100 gms]",50.00,4,0,2025-02-17,101
+Karnataka,Bengaluru,"Sri Vinayaka Hot Chips",Bidadi,Snacks,"Sweet boti",65.00,4,0,2025-05-27,102
+Karnataka,Bengaluru,"Sri Vinayaka Hot Chips",Bidadi,Snacks,"Mixed potato chips [250 gms]",160.00,4,0,2025-01-04,103
+Karnataka,Bengaluru,"Sri Vinayaka Hot Chips",Bidadi,Snacks,"Salted peanuts",85.00,4,0,2025-02-04,104
+Karnataka,Bengaluru,"Sri Vinayaka Hot Chips",Bidadi,Snacks,"Rice butter murukku salted [200 gms]",85.00,4,0,2025-07-11,105
+Karnataka,Bengaluru,"Sri Vinayaka Hot Chips",Bidadi,Snacks,"Congress peanuts 200 gms",85.00,4,0,2025-02-18,106
+Karnataka,Bengaluru,"Sri Vinayaka Hot Chips",Bidadi,Snacks,"Garlic chips [100 gms]",50.00,4,0,2025-01-17,107
+Karnataka,Bengaluru,"Sri Vinayaka Hot Chips",Bidadi,Snacks,"Onion chips [100 gms]",50.00,4,0,2025-06-21,108
+Karnataka,Bengaluru,"Sri Vinayaka Hot Chips",Bidadi,Snacks,"Wheel chips [100 gms]",50.00,4,0,2025-08-08,109
+Karnataka,Bengaluru,"Srinidhi Sagar Deluxe",Kengeri,"Salad & Papad","Green Salad",104.00,4,0,2025-05-23,110
+Karnataka,Bengaluru,"Sri Vinayaka Hot Chips",Bidadi,Snacks,"Yellow boti [100 gms]",50.00,4,0,2025-06-07,111
+Karnataka,Bengaluru,"Sri Vinayaka Hot Chips",Bidadi,Snacks,"Salted moong dal 200 gms",80.00,4,0,2025-08-09,112
+Karnataka,Bengaluru,"Srinidhi Sagar Deluxe",Kengeri,"Salad & Papad","Cucumber Salad",91.00,4,0,2025-06-20,113
+Karnataka,Bengaluru,"Sri Vinayaka Hot Chips",Bidadi,Snacks,"Special garlic nippat 20 pcs",70.00,4,0,2025-02-15,114
+Karnataka,Bengaluru,"Sri Vinayaka Hot Chips",Bidadi,Snacks,"Nippat masala 20 pcs",60.00,4,0,2025-04-27,115
+Karnataka,Bengaluru,"Srinidhi Sagar Deluxe",Kengeri,"Salad & Papad","Roasted Papad",39.00,3,24,2025-01-29,116
+Karnataka,Bengaluru,"Sri Vinayaka Hot Chips",Bidadi,Snacks,"Spanish tomato potato chips",65.00,4,0,2025-01-06,117
+Karnataka,Bengaluru,"Sri Vinayaka Hot Chips",Bidadi,Snacks,"Maxican pepper potato chips [500 gms]",245.00,4,0,2025-04-09,118
+Karnataka,Bengaluru,"Sri Vinayaka Hot Chips",Bidadi,Snacks,"Salted potato chips [500 gms]",245.00,4,0,2025-05-04,119
+Karnataka,Bengaluru,"Sri Vinayaka Hot Chips",Bidadi,Snacks,"Banana chips pepper [250 gms]",95.00,4,0,2025-08-21,120
+Karnataka,Bengaluru,"Srinidhi Sagar Deluxe",Kengeri,Beverages,Tea,49.00,5,71,2025-02-05,121
+Karnataka,Bengaluru,"Sri Vinayaka Hot Chips",Bidadi,Snacks,"Banana chips masala [250 gms]",95.00,4,0,2025-02-06,122
+Karnataka,Bengaluru,"Nisarga Family Daba","Rajarajeshwari Nagar","Non Veg Starter","Chicken Tikka",239.00,4,0,2025-05-28,123
+Karnataka,Bengaluru,"Sri Vinayaka Hot Chips",Bidadi,Snacks,"Spanish tomato potato chips [250 gms]",95.00,4,0,2025-01-24,124
+Karnataka,Bengaluru,"Srinidhi Sagar Deluxe",Kengeri,Beverages,Coffee,49.00,5,99,2025-01-13,125
+Karnataka,Bengaluru,"Nisarga Family Daba","Rajarajeshwari Nagar","Non Veg Starter","Palak Chicken",239.00,4,0,2025-07-06,126
+Karnataka,Bengaluru,"Sri Vinayaka Hot Chips",Bidadi,Snacks,"Maxican pepper potato chips [250 gms]",95.00,4,0,2025-04-03,127
+Karnataka,Bengaluru,"Nisarga Family Daba","Rajarajeshwari Nagar","Non Veg Starter","Lemon Chicken",239.00,4,3,2025-06-13,128
+Karnataka,Bengaluru,"Srinidhi Sagar Deluxe",Kengeri,Beverages,"Badam Milk",52.00,4,25,2025-06-09,129
+Karnataka,Bengaluru,"Sri Vinayaka Hot Chips",Bidadi,Snacks,"Salted potato chips [250 gms]",95.00,4,0,2025-08-29,130
+Karnataka,Bengaluru,"Sri Vinayaka Hot Chips",Bidadi,Snacks,"Masala peanuts [250 gms]",95.00,4,0,2025-02-15,131
+Karnataka,Bengaluru,"Sri Vinayaka Hot Chips",Bidadi,Snacks,"Banana chips pepper",65.00,4,0,2025-06-30,132
+Karnataka,Bengaluru,"Srinidhi Sagar Deluxe",Kengeri,Sweets,"Gulab Jamun",52.00,4,37,2025-02-16,133
+Karnataka,Bengaluru,"Sri Vinayaka Hot Chips",Bidadi,Snacks,"Banana chips masala",65.00,4,0,2025-04-05,134
+Karnataka,Bengaluru,"Sri Vinayaka Hot Chips",Bidadi,Snacks,"Spanish tomato potato chips [500 gms]",245.00,4,0,2025-04-09,135
+Karnataka,Bengaluru,"Nisarga Family Daba","Rajarajeshwari Nagar","Non Veg Starter","Chciken Lolypop",239.00,4,0,2025-05-27,136
+Karnataka,Bengaluru,"Sri Vinayaka Hot Chips",Bidadi,Snacks,"Maxican pepper potato chips",65.00,4,0,2025-07-07,137
+Karnataka,Bengaluru,"Nisarga Family Daba","Rajarajeshwari Nagar","Non Veg Starter","Chicken 88",239.00,4,0,2025-02-16,138
+Karnataka,Bengaluru,"Srinidhi Sagar Deluxe",Kengeri,"Ice Cream Soda","Vannila Soda",117.00,4,0,2025-07-06,139
+Karnataka,Bengaluru,"Nisarga Family Daba","Rajarajeshwari Nagar","Non Veg Starter","Garlic Chicken",239.00,4,0,2025-07-14,140
+Karnataka,Bengaluru,"Sri Vinayaka Hot Chips",Bidadi,Snacks,"Salted potato chips",65.00,4,0,2025-08-13,141
+Karnataka,Bengaluru,"Srinidhi Sagar Deluxe",Kengeri,"Ice Cream Soda","Strawberry Soda",117.00,4,0,2025-08-31,142
+Karnataka,Bengaluru,"Sri Vinayaka Hot Chips",Bidadi,Snacks,"Banana chips [500 gms]",245.00,4,0,2025-04-26,143
+Karnataka,Bengaluru,"Sri Vinayaka Hot Chips",Bidadi,Snacks,"Banana chips [250 gms]",95.00,4,0,2025-07-10,144
+Karnataka,Bengaluru,"Nisarga Family Daba","Rajarajeshwari Nagar","Non Veg Starter","Chicken Raja",239.00,4,3,2025-05-27,145
+Karnataka,Bengaluru,"Srinidhi Sagar Deluxe",Kengeri,"Ice Cream Soda","Choclate Soda",117.00,4,0,2025-02-16,146
+Karnataka,Bengaluru,"Sri Vinayaka Hot Chips",Bidadi,Snacks,"Spicy potato chips",65.00,4,0,2025-08-01,147
+Karnataka,Bengaluru,"Sri Vinayaka Hot Chips",Bidadi,Snacks,"Banana chips",65.00,4,0,2025-06-09,148
+Karnataka,Bengaluru,"Nisarga Family Daba","Rajarajeshwari Nagar","Non Veg Starter","Chilly Chicken Andra",239.00,4,0,2025-05-28,149
+Karnataka,Bengaluru,"Srinidhi Sagar Deluxe",Kengeri,Dosas,"Rava Onion Masala",156.00,5,33,2025-01-28,150
+Karnataka,Bengaluru,"Sri Vinayaka Hot Chips",Bidadi,Snacks,"Bitterguard chips [250 gms]",95.00,4,0,2025-08-03,151
+Karnataka,Bengaluru,"Nisarga Family Daba","Rajarajeshwari Nagar","Non Veg Starter","Kundapur Chicken",239.00,4,0,2025-04-06,152
+Karnataka,Bengaluru,"Srinidhi Sagar Deluxe",Kengeri,Dosas,"Paper Masala",156.00,4,34,2025-02-16,153
+Karnataka,Bengaluru,"Srinidhi Sagar Deluxe",Kengeri,Dosas,"Rava Dosa",130.00,5,20,2025-06-19,154
+Karnataka,Bengaluru,"Srinidhi Sagar Deluxe",Kengeri,Dosas,"Onion Dosa",130.00,4,68,2025-02-14,155
+Karnataka,Bengaluru,"Srinidhi Sagar Deluxe",Kengeri,Dosas,"Paper Plain",143.00,3,16,2025-02-16,156
+Karnataka,Bengaluru,"Nisarga Family Daba","Rajarajeshwari Nagar","Non Veg Starter","Chicken Kasturi",239.00,4,0,2025-07-18,157
+Karnataka,Bengaluru,"Nisarga Family Daba","Rajarajeshwari Nagar","Non Veg Starter","Chciken 65",239.00,4,0,2025-02-21,158
+Karnataka,Bengaluru,"Srinidhi Sagar Deluxe",Kengeri,Dosas,"Butter Masala",130.00,5,54,2025-07-04,159
+Karnataka,Bengaluru,"Nisarga Family Daba","Rajarajeshwari Nagar","Non Veg Starter","Arabic Chicken",239.00,4,0,2025-08-21,160
+Karnataka,Bengaluru,"Srinidhi Sagar Deluxe",Kengeri,Dosas,"Ghee Plain",124.00,4,4,2025-05-14,161
+Karnataka,Bengaluru,"Srinidhi Sagar Deluxe",Kengeri,Dosas,"Rava Masala",143.00,4,18,2025-01-28,162
+Karnataka,Bengaluru,"Srinidhi Sagar Deluxe",Kengeri,Dosas,"Masala Dosa",104.00,4,446,2025-01-28,163
+Karnataka,Bengaluru,"Nisarga Family Daba","Rajarajeshwari Nagar","Non Veg Starter","Chicken Karavali",239.00,4,0,2025-06-10,164
+Karnataka,Bengaluru,"Srinidhi Sagar Deluxe",Kengeri,Dosas,"Open Butter Masala",124.00,3,21,2025-04-18,165
+Karnataka,Bengaluru,"Nisarga Family Daba","Rajarajeshwari Nagar","Non Veg Starter","Chicken Naati",239.00,4,0,2025-06-17,166
+Karnataka,Bengaluru,"Srinidhi Sagar Deluxe",Kengeri,Dosas,"Butter Plain",124.00,4,7,2025-02-13,167
+Karnataka,Bengaluru,"Nisarga Family Daba","Rajarajeshwari Nagar","Non Veg Starter","Chicken Manchuri",239.00,4,0,2025-05-08,168
+Karnataka,Bengaluru,"Nisarga Family Daba","Rajarajeshwari Nagar","Non Veg Starter","Mutton Patiala.",440.00,4,0,2025-02-08,169
+Karnataka,Bengaluru,"Sri Vinayaka Hot Chips",Bidadi,Snacks,"Kodubale 200 gm",65.00,4,0,2025-06-10,170
+Karnataka,Bengaluru,"Sri Vinayaka Hot Chips",Bidadi,Snacks,"Masala kodubale [250 gms]",95.00,4,0,2025-02-16,171
+Karnataka,Bengaluru,"Sri Vinayaka Hot Chips",Bidadi,Snacks,"Small kodubale [250 gms]",95.00,4,0,2025-05-08,172
+Karnataka,Bengaluru,"Nisarga Family Daba","Rajarajeshwari Nagar","Non Veg Starter","Nisarga Spl Mutton",440.00,4,0,2025-02-16,173
+Karnataka,Bengaluru,"Nisarga Family Daba","Rajarajeshwari Nagar","Non Veg Starter","Guntoor Chicken",239.00,4,0,2025-04-14,174
+Karnataka,Bengaluru,"Sri Vinayaka Hot Chips",Bidadi,Snacks,"Topioca stick [500 gms]",245.00,4,0,2025-01-18,175
+Karnataka,Bengaluru,"Sri Vinayaka Hot Chips",Bidadi,Snacks,"Topioca chips [500 gms]",245.00,4,0,2025-01-25,176
+Karnataka,Bengaluru,"Srinidhi Sagar Deluxe",Kengeri,Dosas,"Set Dosa",104.00,4,251,2025-02-16,177
+Karnataka,Bengaluru,"Sri Vinayaka Hot Chips",Bidadi,Snacks,"Bitterguard chips [500 gms]",245.00,4,0,2025-08-22,178
+Karnataka,Bengaluru,"Srinidhi Sagar Deluxe",Kengeri,Dosas,"Special Dosa",124.00,2,14,2025-01-30,179
+Karnataka,Bengaluru,"Sri Vinayaka Hot Chips",Bidadi,Snacks,"Potato ginger chips [500 gms]",245.00,4,0,2025-08-11,180
+Karnataka,Bengaluru,"Sri Vinayaka Hot Chips",Bidadi,Snacks,"Potato pudina chips [500 gms]",245.00,4,0,2025-02-23,181
+Karnataka,Bengaluru,"Sri Vinayaka Hot Chips",Bidadi,Snacks,"Topioca stick [250 gms]",95.00,4,0,2025-02-27,182
+Karnataka,Bengaluru,"Sri Vinayaka Hot Chips",Bidadi,Snacks,"Topioca chips [250 gms]",95.00,4,0,2025-02-16,183
+Karnataka,Bengaluru,"Sri Vinayaka Hot Chips",Bidadi,Snacks,"Tomato muruku",85.00,4,0,2025-04-14,184
+Karnataka,Bengaluru,"Sri Vinayaka Hot Chips",Bidadi,Snacks,"Potato ginger chips [250 gms]",95.00,4,0,2025-06-23,185
+Karnataka,Bengaluru,"Nisarga Family Daba","Rajarajeshwari Nagar","Non Veg Starter","Mutton Ghee Roast",450.00,4,0,2025-05-09,186
+Karnataka,Bengaluru,"Sri Vinayaka Hot Chips",Bidadi,Snacks,"Potato pudina chips [250 gms]",95.00,4,0,2025-01-24,187
+Karnataka,Bengaluru,"Nisarga Family Daba","Rajarajeshwari Nagar","Non Veg Starter","Mutton Sukka",440.00,4,0,2025-01-11,188
+Karnataka,Bengaluru,"Sri Vinayaka Hot Chips",Bidadi,Snacks,"Topioca stick",65.00,4,0,2025-04-24,189
+Karnataka,Bengaluru,"Nisarga Family Daba","Rajarajeshwari Nagar","Non Veg Starter","Prawns Kabab",440.00,4,0,2025-08-08,190
+Karnataka,Bengaluru,"Sri Vinayaka Hot Chips",Bidadi,Snacks,"Topioca chips",65.00,4,0,2025-02-01,191
+Karnataka,Bengaluru,"Sri Vinayaka Hot Chips",Bidadi,Snacks,"Bitterguard chips",65.00,4,0,2025-06-24,192
+Karnataka,Bengaluru,"Nisarga Family Daba","Rajarajeshwari Nagar",Rice,"Paneer Fried Rice",159.00,4,0,2025-07-04,193
+Karnataka,Bengaluru,"Sri Vinayaka Hot Chips",Bidadi,Snacks,"Potato ginger chips",65.00,4,0,2025-02-16,194
+Karnataka,Bengaluru,"Nisarga Family Daba","Rajarajeshwari Nagar",Rice,"Tomato Rice",159.00,4,0,2025-08-05,195
+Karnataka,Bengaluru,"Sri Vinayaka Hot Chips",Bidadi,Snacks,"Potato pudina chips",65.00,4,0,2025-05-31,196
+Karnataka,Bengaluru,"Nisarga Family Daba","Rajarajeshwari Nagar",Rice,"Steam Rice",90.00,4,0,2025-06-27,197
+Karnataka,Bengaluru,"Sri Vinayaka Hot Chips",Bidadi,Snacks,"Banana chips pepper [500 gms]",245.00,4,0,2025-07-13,198
+Karnataka,Bengaluru,"Sri Vinayaka Hot Chips",Bidadi,Snacks,"Banana chips masala [500 gms]",245.00,4,0,2025-05-07,199
+Karnataka,Bengaluru,"Sri Vinayaka Hot Chips",Bidadi,Sweets,"Coconut cookies [250 gms]",95.00,4,0,2025-06-04,200
+Karnataka,Bengaluru,"Nisarga Family Daba","Rajarajeshwari Nagar",Rice,"Mushroom Fried Rice",159.00,4,4,2025-05-31,201
+Karnataka,Bengaluru,"Sri Vinayaka Hot Chips",Bidadi,Sweets,"Mure mure laddu [8 pcs]",30.00,4,0,2025-08-22,202
+Karnataka,Bengaluru,"Nisarga Family Daba","Rajarajeshwari Nagar",Rice,"Egg Fried Rice",149.00,4,6,2025-06-08,203
+Karnataka,Bengaluru,"Sri Vinayaka Hot Chips",Bidadi,Sweets,"Cocunut jaggery burfi [16pcs]",110.00,4,0,2025-05-10,204
+Karnataka,Bengaluru,"Srinidhi Sagar Deluxe",Kengeri,Dosas,"Ghee Masala",130.00,4,0,2025-07-09,205
+Karnataka,Bengaluru,"Sri Vinayaka Hot Chips",Bidadi,Sweets,"Groundnut chikki",100.00,4,0,2025-08-06,206
+Karnataka,Bengaluru,"Nisarga Family Daba","Rajarajeshwari Nagar",Rice,"Veg Fried Rice",159.00,3,6,2025-08-10,207
+Karnataka,Bengaluru,"Srinidhi Sagar Deluxe",Kengeri,Dosas,"Plain Dosa",91.00,5,75,2025-02-16,208
+Karnataka,Bengaluru,"Nisarga Family Daba","Rajarajeshwari Nagar",Rice,"Ghee Rice",159.00,4,0,2025-02-11,209
+Karnataka,Bengaluru,"Srinidhi Sagar Deluxe",Kengeri,Chaats,"Masala Puri",85.00,4,145,2025-05-08,210
+Karnataka,Bengaluru,"Nisarga Family Daba","Rajarajeshwari Nagar",Rice,"Dal Kichidi",169.00,4,0,2025-04-09,211
+Karnataka,Bengaluru,"Srinidhi Sagar Deluxe",Kengeri,Chaats,"Dahi Puri",85.00,5,21,2025-04-02,212
+Karnataka,Bengaluru,"Sri Vinayaka Hot Chips",Bidadi,Sweets,"Kajjaya [200 gms]",60.00,4,0,2025-01-17,213
+Karnataka,Bengaluru,"Sri Vinayaka Hot Chips",Bidadi,Sweets,"Bakarwadi [250 gms]",110.00,4,0,2025-04-14,214
+Karnataka,Bengaluru,"Sri Vinayaka Hot Chips",Bidadi,Sweets,"Rose cookies [10 pcs]",60.00,4,0,2025-06-10,215
+Karnataka,Bengaluru,"Sri Vinayaka Hot Chips",Bidadi,Sweets,"White till ball [100 gms]",55.00,4,0,2025-05-17,216
+Karnataka,Bengaluru,"Sri Vinayaka Hot Chips",Bidadi,Namkeen,"Cornflakes [200gms]",75.00,4,0,2025-02-12,217
+Karnataka,Bengaluru,"Nisarga Family Daba","Rajarajeshwari Nagar",Rice,"Curd Rice",160.00,5,5,2025-01-07,218
+Karnataka,Bengaluru,"Srinidhi Sagar Deluxe",Kengeri,Chaats,"Samosa Masala",78.00,5,5,2025-08-05,219
+Karnataka,Bengaluru,"Sri Vinayaka Hot Chips",Bidadi,Namkeen,"Without garlic mixture",95.00,4,0,2025-06-25,220
+Karnataka,Bengaluru,"Sri Vinayaka Hot Chips",Bidadi,Namkeen,"Mixed mixture",95.00,4,0,2025-02-08,221
+Karnataka,Bengaluru,"Srinidhi Sagar Deluxe",Kengeri,Chaats,"Sev Puri",78.00,4,45,2025-08-19,222
+Karnataka,Bengaluru,"Sri Vinayaka Hot Chips",Bidadi,Namkeen,"Kara boondhi [200gms]",75.00,4,0,2025-08-09,223
+Karnataka,Bengaluru,"Nisarga Family Daba","Rajarajeshwari Nagar",Rice,"Palak kichidi",169.00,4,0,2025-05-24,224
+Karnataka,Bengaluru,"Nisarga Family Daba","Rajarajeshwari Nagar",Rice,"Lemon Rice",169.00,4,0,2025-02-16,225
+Karnataka,Bengaluru,"Sri Vinayaka Hot Chips",Bidadi,Namkeen,"Sev mixture [200gms]",75.00,4,0,2025-06-19,226
+Karnataka,Bengaluru,"Sri Vinayaka Hot Chips",Bidadi,Namkeen,"Special peanut mixture",95.00,4,0,2025-01-26,227
+Karnataka,Bengaluru,"Sri Vinayaka Hot Chips",Bidadi,Namkeen,"Special garlic mixture",95.00,4,0,2025-04-09,228
+Karnataka,Bengaluru,"Srinidhi Sagar Deluxe",Kengeri,Chaats,"Pani Puri",72.00,5,52,2025-07-09,229
+Karnataka,Bengaluru,"Srinidhi Sagar Deluxe",Kengeri,Chaats,"Special Sev Puri",85.00,4,0,2025-08-13,230
+Karnataka,Bengaluru,"Nisarga Family Daba","Rajarajeshwari Nagar",Rice,"Jeera Rice",159.00,2,3,2025-04-22,231
+Karnataka,Bengaluru,"Sri Vinayaka Hot Chips",Bidadi,Muruku,"Spicy butter muruku [250 gms]",85.00,4,0,2025-02-19,232
+Karnataka,Bengaluru,"Srinidhi Sagar Deluxe",Kengeri,Chaats,Bhel,72.00,4,41,2025-05-09,233
+Karnataka,Bengaluru,"Nisarga Family Daba","Rajarajeshwari Nagar","Non Veg Fried","Chicken Biriyani",170.00,3,12,2025-02-16,234
+Karnataka,Bengaluru,"Srinidhi Sagar Deluxe",Kengeri,Chaats,"Aloo Puri",78.00,2,9,2025-05-01,235
+Karnataka,Bengaluru,"Nisarga Family Daba","Rajarajeshwari Nagar","Non Veg Fried","Chicken Fried Rice",149.00,4,6,2025-04-23,236
+Karnataka,Bengaluru,"Sri Vinayaka Hot Chips",Bidadi,Muruku,"Salted namakal muruku [200 gms]",55.00,4,0,2025-06-02,237
+Karnataka,Bengaluru,"Sri Vinayaka Hot Chips",Bidadi,Muruku,"Spicy namakal muruku [200 gms]",55.00,4,0,2025-06-01,238
+Karnataka,Bengaluru,"Nisarga Family Daba","Rajarajeshwari Nagar","Non Veg Fried","Biriyani Rice",90.00,4,6,2025-01-02,239
+Karnataka,Bengaluru,"Srinidhi Sagar Deluxe",Kengeri,Chaats,"Papadi Chat",78.00,4,0,2025-01-27,240
+Karnataka,Bengaluru,"Sri Vinayaka Hot Chips",Bidadi,Muruku,"Salted butter muruku 250 gms",85.00,4,0,2025-01-13,241
+Karnataka,Bengaluru,"Srinidhi Sagar Deluxe",Kengeri,Chaats,"Sev Dahi Batata Puri",78.00,4,0,2025-07-09,242
+Karnataka,Bengaluru,"Sri Vinayaka Hot Chips",Bidadi,Powder,"Sambar pudi [250 gms]",200.00,4,0,2025-02-16,243
+Karnataka,Bengaluru,"Chinese Wok","Kengeri Satellite Town",Recommended,"Combo for 1 Non-Veg",379.00,4,16,2025-05-15,244
+Karnataka,Bengaluru,"Chinese Wok","Kengeri Satellite Town",Recommended,"Hunan Paneer Dry - Mini",189.00,4,1,2025-02-26,245
+Karnataka,Bengaluru,"Srinidhi Sagar Deluxe",Kengeri,Chaats,"Special Bhel",81.00,3,21,2025-05-01,246
+Karnataka,Bengaluru,"Nisarga Family Daba","Rajarajeshwari Nagar","Tandoori Starter","Tandoori (Chicken)",260.00,5,3,2025-05-09,247
+Karnataka,Bengaluru,"Chinese Wok","Kengeri Satellite Town",Recommended,"Hunan Paneer Dry - Full",359.00,4,4,2025-02-05,248
+Karnataka,Bengaluru,"Srinidhi Sagar Deluxe",Kengeri,Chaats,"Tomato Puri",78.00,4,0,2025-04-26,249
+Karnataka,Bengaluru,"Nisarga Family Daba","Rajarajeshwari Nagar","Tandoori Starter","Kalmi Kabab (Chicken)",110.00,4,6,2025-02-17,250
+Karnataka,Bengaluru,"Chinese Wok","Kengeri Satellite Town",Recommended,"Schezwan Paneer Dry - Mini",189.00,4,2,2025-06-22,251
+Karnataka,Bengaluru,"Srinidhi Sagar Deluxe",Kengeri,Chaats,"Sev Batata Puri",72.00,4,0,2025-07-24,252
+Karnataka,Bengaluru,"Chinese Wok","Kengeri Satellite Town",Recommended,"Schezwan Paneer Dry - Full",359.00,5,4,2025-01-20,253
+Karnataka,Bengaluru,"Nisarga Family Daba","Rajarajeshwari Nagar","Tandoori Starter","Tandoori Kabab (Chicken)",239.00,4,0,2025-05-20,254
+Karnataka,Bengaluru,"Srinidhi Sagar Deluxe",Kengeri,Chaats,Samosa,35.00,4,23,2025-08-21,255
+Karnataka,Bengaluru,"Nisarga Family Daba","Rajarajeshwari Nagar","Tandoori Starter","Pudina Kabab (Chicken)",239.00,4,0,2025-07-16,256
+Karnataka,Bengaluru,"Chinese Wok","Kengeri Satellite Town",Recommended,"Hunan Chicken Dry - Mini",209.00,4,19,2025-02-16,257
+Karnataka,Bengaluru,"Nisarga Family Daba","Rajarajeshwari Nagar","Tandoori Starter","Pepper Kabab (Chicken)",239.00,4,0,2025-02-06,258
+Karnataka,Bengaluru,"Chinese Wok","Kengeri Satellite Town",Recommended,"Hunan Chicken Dry - Full",379.00,5,10,2025-01-08,259
+Karnataka,Bengaluru,"Nisarga Family Daba","Rajarajeshwari Nagar","Veg Gravy","Dal Tadka",169.00,4,3,2025-06-09,260
+Karnataka,Bengaluru,"Chinese Wok","Kengeri Satellite Town",Recommended,"Schezwan Chicken Dry - Mini",209.00,4,7,2025-08-26,261
+Karnataka,Bengaluru,"Thalassery Restaurant","Rajarajeshwari Nagar",Recommended,"Al Faham Chicken",169.00,4,19,2025-01-03,262
+Karnataka,Bengaluru,"Thalassery Restaurant","Rajarajeshwari Nagar",Recommended,"Dragon Chicken ",315.00,4,1,2025-04-13,263
+Karnataka,Bengaluru,"Thalassery Restaurant","Rajarajeshwari Nagar",Recommended,"Chicken Manchow Soup   ",130.00,5,6,2025-07-17,264
+Karnataka,Bengaluru,"Chinese Wok","Kengeri Satellite Town",Recommended,"Schezwan Chicken Dry - Full",379.00,4,4,2025-05-24,265
+Karnataka,Bengaluru,"Nisarga Family Daba","Rajarajeshwari Nagar","Veg Gravy","Egg Muighalai",169.00,4,0,2025-01-09,266
+Karnataka,Bengaluru,"Chinese Wok","Kengeri Satellite Town",Recommended,"Veg Wheat Momo With Momo Chutney",307.00,4,1,2025-05-22,267
+Karnataka,Bengaluru,"Chinese Wok","Kengeri Satellite Town",Recommended,"Chicken Wheat Momo With Momo Chutney",337.00,4,5,2025-07-23,268
+Karnataka,Bengaluru,"Chinese Wok","Kengeri Satellite Town",Recommended,"Hunan Paneer Bowl",319.00,3,10,2025-04-25,269
+Karnataka,Bengaluru,"Thalassery Restaurant","Rajarajeshwari Nagar",Recommended,"Chicken Noodles Soup",180.00,4,0,2025-07-19,270
+Karnataka,Bengaluru,"Nisarga Family Daba","Rajarajeshwari Nagar","Veg Gravy","Kaju Masala",235.00,3,3,2025-08-21,271
+Karnataka,Bengaluru,"Thalassery Restaurant","Rajarajeshwari Nagar",Recommended,"Butter Chapati",35.00,5,3,2025-06-04,272
+Karnataka,Bengaluru,"Chinese Wok","Kengeri Satellite Town",Recommended,"Hunan Chicken Bowl",319.00,5,12,2025-08-03,273
+Karnataka,Bengaluru,"Chinese Wok","Kengeri Satellite Town",Recommended,"Veg Chinese Fried Rice - Half (500 ml).",269.00,4,0,2025-05-23,274
+Karnataka,Bengaluru,"Nisarga Family Daba","Rajarajeshwari Nagar","Veg Gravy","Dal Fry",149.00,4,0,2025-04-09,275
+Karnataka,Bengaluru,"Thalassery Restaurant","Rajarajeshwari Nagar",Recommended,"Butter Roti",47.00,4,3,2025-05-17,276
+Karnataka,Bengaluru,"Nisarga Family Daba","Rajarajeshwari Nagar","Veg Gravy","Mix Veg Curry",169.00,4,0,2025-05-27,277
+Karnataka,Bengaluru,"Chinese Wok","Kengeri Satellite Town",Recommended,"Veg Chinese Hakka Noodles - Half (500 ml).",269.00,4,0,2025-04-02,278
+Karnataka,Bengaluru,"Nisarga Family Daba","Rajarajeshwari Nagar","Veg Gravy","Veg Kadai",189.00,4,0,2025-02-17,279
+Karnataka,Bengaluru,"Chinese Wok","Kengeri Satellite Town",Recommended,"Veg Chilli Garlic Noodles - Half (500 ml).",269.00,4,0,2025-04-08,280
+Karnataka,Bengaluru,"Chinese Wok","Kengeri Satellite Town",Recommended,"Veg Schezwan Noodles - Half (500 ml).",269.00,4,105,2025-02-16,281
+Karnataka,Bengaluru,"Nisarga Family Daba","Rajarajeshwari Nagar","Veg Gravy","Veg Hyderabadi",179.00,4,0,2025-07-27,282
+Karnataka,Bengaluru,"Chinese Wok","Kengeri Satellite Town",Recommended,"Chicken Fried Rice - Half (500 ml).",309.00,4,0,2025-02-01,283
+Karnataka,Bengaluru,"Thalassery Restaurant","Rajarajeshwari Nagar",Recommended,"Thalassery Chicken Dum Biryani [Serves 1]",270.00,4,19,2025-02-16,284
+Karnataka,Bengaluru,"Chinese Wok","Kengeri Satellite Town",Recommended,"Chicken Hakka Noodles - Half (500 ml).",309.00,5,80,2025-08-03,285
+Karnataka,Bengaluru,"Thalassery Restaurant","Rajarajeshwari Nagar",Recommended,"Leaf Chicken Dum Biryani",299.00,4,2,2025-06-14,286
+Karnataka,Bengaluru,"Thalassery Restaurant","Rajarajeshwari Nagar",Recommended,"Chana Masala",195.00,4,0,2025-08-13,287
+Karnataka,Bengaluru,"Chinese Wok","Kengeri Satellite Town",Recommended,"Chicken Chilli Garlic Noodles - Half (500 ml).",309.00,4,0,2025-07-10,288
+Karnataka,Bengaluru,"Nisarga Family Daba","Rajarajeshwari Nagar","Veg Gravy","Veg Kholapuri",179.00,4,0,2025-05-11,289
+Karnataka,Bengaluru,"Thalassery Restaurant","Rajarajeshwari Nagar",Recommended,"Thalassery Chicken Curry ",260.00,4,12,2025-02-20,290
+Karnataka,Bengaluru,"Nisarga Family Daba","Rajarajeshwari Nagar","Veg Gravy","Tomato Curry",159.00,4,0,2025-05-28,291
+Karnataka,Bengaluru,"Thalassery Restaurant","Rajarajeshwari Nagar",Recommended,"Nadan Chicken Curry ",260.00,4,0,2025-08-22,292
+Karnataka,Bengaluru,"Nisarga Family Daba","Rajarajeshwari Nagar","Veg Gravy","Plain Palak",159.00,4,0,2025-06-01,293
+Karnataka,Bengaluru,"Nisarga Family Daba","Rajarajeshwari Nagar","Indian Breads",Roti,25.00,4,7,2025-02-23,294
+Karnataka,Bengaluru,"Nisarga Family Daba","Rajarajeshwari Nagar","Indian Breads","Butter Naan",45.00,5,5,2025-04-30,295
+Karnataka,Bengaluru,"Thalassery Restaurant","Rajarajeshwari Nagar",Recommended,"Mutton Rogan Josh",375.00,4,0,2025-06-21,296
+Karnataka,Bengaluru,"Thalassery Restaurant","Rajarajeshwari Nagar",Recommended,"Chicken Kondattam",315.00,4,1,2025-06-01,297
+Karnataka,Bengaluru,"Nisarga Family Daba","Rajarajeshwari Nagar","Indian Breads","Garlic Butter Naan",55.00,4,0,2025-06-10,298
+Karnataka,Bengaluru,"Thalassery Restaurant","Rajarajeshwari Nagar",Recommended,"Chicken Noodles",245.00,5,15,2025-07-26,299
+Karnataka,Bengaluru,"Appu Donne Biriyani Palace","Rajarajeshwari Nagar",Recommended,"Biryani rice",120.00,4,177,2025-02-28,300
+Karnataka,Bengaluru,"Appu Donne Biriyani Palace","Rajarajeshwari Nagar",Recommended,"Mutton biryani",299.00,4,54,2025-04-28,301
+Karnataka,Bengaluru,"Nisarga Family Daba","Rajarajeshwari Nagar","Indian Breads","Butter Roti",30.00,4,4,2025-06-01,302
+Karnataka,Bengaluru,"Nisarga Family Daba","Rajarajeshwari Nagar","Indian Breads","Butter Kulcha",50.00,5,3,2025-04-26,303
+Karnataka,Bengaluru,"Appu Donne Biriyani Palace","Rajarajeshwari Nagar",Recommended,"Chicken kebab",170.00,4,102,2025-06-09,304
+Karnataka,Bengaluru,"Appu Donne Biriyani Palace","Rajarajeshwari Nagar",Recommended,"Chicken masala",190.00,5,34,2025-04-06,305
+Karnataka,Bengaluru,"Nisarga Family Daba","Rajarajeshwari Nagar","Indian Breads",Naan,40.00,4,3,2025-02-16,306
+Karnataka,Bengaluru,"Nisarga Family Daba","Rajarajeshwari Nagar","Indian Breads","Garlic Naan",50.00,4,0,2025-04-23,307
+Karnataka,Bengaluru,"Nisarga Family Daba","Rajarajeshwari Nagar","Indian Breads",Kulcha,45.00,5,4,2025-07-19,308
+Karnataka,Bengaluru,"Nisarga Family Daba","Rajarajeshwari Nagar",Paneer,"Paneer Butter Masala",189.00,4,8,2025-06-13,309
+Karnataka,Bengaluru,"Chinese Wok","Kengeri Satellite Town","Pot Rice","Veg Manchurian Pot Rice",425.00,4,0,2025-02-16,310
+Karnataka,Bengaluru,"Chinese Wok","Kengeri Satellite Town","Pot Rice","Paneer Pot Rice",425.00,4,0,2025-02-20,311
+Karnataka,Bengaluru,"Chinese Wok","Kengeri Satellite Town","Pot Rice","Chicken Pot Rice",455.00,4,2,2025-06-02,312
+Karnataka,Bengaluru,"Chinese Wok","Kengeri Satellite Town",Dessert,"Chocolate Mousse - Small",59.00,4,45,2025-07-05,313
+Karnataka,Bengaluru,"Chinese Wok","Kengeri Satellite Town",Dessert,"Black forest Mousse Cake",59.00,4,25,2025-02-16,314
+Karnataka,Bengaluru,"Chinese Wok","Kengeri Satellite Town",Dessert,"Salted Caramel Choco Mousse",59.00,5,16,2025-07-09,315
+Karnataka,Bengaluru,"Chinese Wok","Kengeri Satellite Town",Dessert,"Choco Lava",99.00,5,17,2025-05-05,316
+Karnataka,Bengaluru,"Chinese Wok","Kengeri Satellite Town",Drinks,"Pepsi Pet Bottle",57.00,4,43,2025-05-30,317
+Karnataka,Bengaluru,"Chinese Wok","Kengeri Satellite Town",Drinks,"7 Up",57.00,4,10,2025-02-27,318
+Karnataka,Bengaluru,"Chinese Wok","Kengeri Satellite Town",Drinks,"Coolberg Peach",118.75,4,0,2025-02-27,319
+Karnataka,Bengaluru,"Chinese Wok","Kengeri Satellite Town",Drinks,"Coolberg Cranberry",118.75,5,5,2025-02-16,320
+Karnataka,Bengaluru,"Chinese Wok","Kengeri Satellite Town",Drinks,"Aam Panna",99.00,4,1,2025-02-18,321
+Karnataka,Bengaluru,"Nisarga Family Daba","Rajarajeshwari Nagar",Paneer,"Paneer Kadai",189.00,4,0,2025-06-15,322
+Karnataka,Bengaluru,"Chinese Wok","Kengeri Satellite Town",Drinks,"Peach Ice Tea",99.00,4,0,2025-06-29,323
+Karnataka,Bengaluru,"Nisarga Family Daba","Rajarajeshwari Nagar",Paneer,"Paneer Masala",189.00,4,0,2025-04-14,324
+Karnataka,Bengaluru,"Chinese Wok","Kengeri Satellite Town",Drinks,"Masala Shikanji",99.00,4,2,2025-06-19,325
+Karnataka,Bengaluru,"Nisarga Family Daba","Rajarajeshwari Nagar",Paneer,"Paneer Hydrabadi",189.00,4,0,2025-02-16,326
+Karnataka,Bengaluru,"Chinese Wok","Kengeri Satellite Town",Drinks,"Lemon Ice Tea",99.00,4,0,2025-02-16,327
+Karnataka,Bengaluru,"Chinese Wok","Kengeri Satellite Town",Drinks,Water,28.50,4,2,2025-01-15,328
+Karnataka,Bengaluru,"Chinese Wok","Kengeri Satellite Town","Extra Dip & Crispy Noodles","Crispy Noodles",20.00,4,9,2025-02-23,329
+Karnataka,Bengaluru,"Appu Donne Biriyani Palace","Rajarajeshwari Nagar",Recommended,"Chicken fry",190.00,4,67,2025-08-04,330
+Karnataka,Bengaluru,"Chinese Wok","Kengeri Satellite Town","Extra Dip & Crispy Noodles","Extra Schezwan Dip",20.00,3,4,2025-08-23,331
+Karnataka,Bengaluru,"Nisarga Family Daba","Rajarajeshwari Nagar",Paneer,"Paneer Kholapuri",189.00,4,0,2025-08-15,332
+Karnataka,Bengaluru,"Appu Donne Biriyani Palace","Rajarajeshwari Nagar",Recommended,"Raggi ball",35.00,4,26,2025-08-21,333
+Karnataka,Bengaluru,"Chinese Wok","Kengeri Satellite Town","Extra Dip & Crispy Noodles","Extra Mayo Dip",20.00,4,2,2025-07-07,334
+Karnataka,Bengaluru,"Nisarga Family Daba","Rajarajeshwari Nagar",Mushroom,"Mushroom Masala",189.00,4,0,2025-04-22,335
+Karnataka,Bengaluru,"Appu Donne Biriyani Palace","Rajarajeshwari Nagar",Recommended,"Mutton fry",290.00,4,19,2025-06-29,336
+Karnataka,Bengaluru,"Nisarga Family Daba","Rajarajeshwari Nagar",Mushroom,"Mushroom Kholapuri",189.00,4,0,2025-08-05,337
+Karnataka,Bengaluru,"Appu Donne Biriyani Palace","Rajarajeshwari Nagar",Recommended,"Mutton chops",290.00,4,7,2025-04-23,338
+Karnataka,Bengaluru,"Chinese Wok","Kengeri Satellite Town","Extra Dip & Crispy Noodles","Extra Sweet Chilli Dip",20.00,4,1,2025-04-11,339
+Karnataka,Bengaluru,"Nisarga Family Daba","Rajarajeshwari Nagar",Mushroom,"Mushroom Kadai",189.00,4,0,2025-04-09,340
+Karnataka,Bengaluru,"Chinese Wok","Kengeri Satellite Town","Extra Dip & Crispy Noodles","Extra Momo Chutney",20.00,4,2,2025-08-13,341
+Karnataka,Bengaluru,"Nisarga Family Daba","Rajarajeshwari Nagar",Mushroom,"Mushroom Hydrabadi",189.00,4,0,2025-06-02,342
+Karnataka,Bengaluru,"Pizza Hut","Kanakapura Road",Recommended,Margherita,169.00,4,63,2025-01-08,343
+Karnataka,Bengaluru,"Nisarga Family Daba","Rajarajeshwari Nagar",Egg,"Egg Ghee Roast",189.00,4,0,2025-04-03,344
+Karnataka,Bengaluru,"Pizza Hut","Kanakapura Road",Recommended,"Veggie Feast",259.00,4,58,2025-02-22,345
+Karnataka,Bengaluru,"Nisarga Family Daba","Rajarajeshwari Nagar",Egg,"Egg Chilli",189.00,4,0,2025-05-26,346
+Karnataka,Bengaluru,"Pizza Hut","Kanakapura Road",Recommended,"Tandoori Paneer",319.00,4,69,2025-02-16,347
+Karnataka,Bengaluru,"Pizza Hut","Kanakapura Road",Recommended,"Country Feast",319.00,4,22,2025-08-24,348
+Karnataka,Bengaluru,"Pizza Hut","Kanakapura Road",Recommended,"Veggie Supreme",379.00,4,79,2025-04-18,349
+Karnataka,Bengaluru,"Pizza Hut","Kanakapura Road",Recommended,"Chicken Sausage",259.00,5,15,2025-01-05,350
+Karnataka,Bengaluru,"Nisarga Family Daba","Rajarajeshwari Nagar",Egg,"Egg Pepper Dry",189.00,4,0,2025-05-08,351
+Karnataka,Bengaluru,"Pizza Hut","Kanakapura Road",Recommended,"Murg Malai Chicken",379.00,5,7,2025-04-13,352
+Karnataka,Bengaluru,"Nisarga Family Daba","Rajarajeshwari Nagar",Egg,"Egg Manchuri",189.00,4,0,2025-04-20,353
+Karnataka,Bengaluru,"Pizza Hut","Kanakapura Road",Recommended,"Chicken Supreme",409.00,4,8,2025-07-15,354
+Karnataka,Bengaluru,"Pizza Hut","Kanakapura Road",Recommended,"Triple Chicken Feast",409.00,5,12,2025-01-06,355
+Karnataka,Bengaluru,"Pizza Hut","Kanakapura Road",Recommended,"Classic Onion Capsicum",109.00,4,199,2025-04-19,356
+Karnataka,Bengaluru,"Pizza Hut","Kanakapura Road",Recommended,"Cheesy Spicy Delight",169.00,4,16,2025-08-12,357
+Karnataka,Bengaluru,"Nisarga Family Daba","Rajarajeshwari Nagar",Extra,"Cashew Nut Fry",260.00,4,0,2025-02-16,358
+Karnataka,Bengaluru,"Pizza Hut","Kanakapura Road",Recommended,"Chilli Paneer Sizzle",189.00,4,39,2025-04-26,359
+Karnataka,Bengaluru,"Pizza Hut","Kanakapura Road",Recommended,"Classic Chicken Pepperoni & Onion",159.00,4,3,2025-04-04,360
+Karnataka,Bengaluru,"Nisarga Family Daba","Rajarajeshwari Nagar",Extra,"Cucumber Salad",90.00,4,0,2025-07-13,361
+Karnataka,Bengaluru,"Pizza Hut","Kanakapura Road",Recommended,"Classic Herbed Chicken & Capsicum",179.00,4,10,2025-02-16,362
+Karnataka,Bengaluru,"Nisarga Family Daba","Rajarajeshwari Nagar",Extra,"Green Salad",90.00,4,0,2025-02-23,363
+Karnataka,Bengaluru,"Pizza Hut","Kanakapura Road",Recommended,"Chatpata Chicken Feast",199.00,4,3,2025-04-09,364
+Karnataka,Bengaluru,"Nisarga Family Daba","Rajarajeshwari Nagar",Extra,"Cup Curd",25.00,4,0,2025-06-12,365
+Karnataka,Bengaluru,"Pizza Hut","Kanakapura Road",Recommended,"Bold BBQ Veggie Thin n Crispy",749.00,5,7,2025-02-24,366
+Karnataka,Bengaluru,"Pizza Hut","Kanakapura Road",Recommended,"Spicy Schezwan Pasta Chicken",199.00,4,2,2025-06-17,367
+Karnataka,Bengaluru,"Pizza Hut","Kanakapura Road",Recommended,"Spicy Red Schezwan Pasta",179.00,4,13,2025-02-21,368
+Karnataka,Bengaluru,"Nisarga Family Daba","Rajarajeshwari Nagar",Soups,"Non Veg Soup (Chicken)",170.00,4,0,2025-07-27,369
+Karnataka,Bengaluru,"Pizza Hut","Kanakapura Road",Recommended,"Sprinkled Fries - New",109.00,4,13,2025-05-24,370
+Karnataka,Bengaluru,"Nisarga Family Daba","Rajarajeshwari Nagar",Soups,"Tomato Soup",150.00,4,0,2025-07-08,371
+Karnataka,Bengaluru,"Pizza Hut","Kanakapura Road",Recommended,"Spicy Baked Chicken Wings 4pc",209.00,3,11,2025-01-13,372
+Karnataka,Bengaluru,"Pizza Hut","Kanakapura Road","Veg Pizza","Schezwan Margherita",219.00,4,16,2025-04-24,373
+Karnataka,Bengaluru,"Pizza Hut","Kanakapura Road","Veg Pizza","Mexican Fiesta",319.00,4,28,2025-05-04,374
+Karnataka,Bengaluru,"Appu Donne Biriyani Palace","Rajarajeshwari Nagar",Recommended,"Boiled egg",20.00,4,44,2025-02-16,375
+Karnataka,Bengaluru,"Nisarga Family Daba","Rajarajeshwari Nagar",Soups,"Veg Soup",150.00,4,0,2025-06-18,376
+Karnataka,Bengaluru,"Appu Donne Biriyani Palace","Rajarajeshwari Nagar",Recommended,"Egg boti fry",230.00,4,7,2025-08-29,377
+Karnataka,Bengaluru,"Nisarga Family Daba","Rajarajeshwari Nagar",Beverages,"Butter Milk",90.00,4,0,2025-08-16,378
+Karnataka,Bengaluru,"Nisarga Family Daba","Rajarajeshwari Nagar",Beverages,"Fresh Lime Juice",90.00,4,0,2025-06-10,379
+Karnataka,Bengaluru,"Nisarga Family Daba","Rajarajeshwari Nagar",Beverages,"Fresh Lime Soda",90.00,4,0,2025-02-16,380
+Karnataka,Bengaluru,"Appu Donne Biriyani Palace","Rajarajeshwari Nagar",Biryani,"Chicken biryani",180.00,4,127,2025-07-05,381
+Karnataka,Bengaluru,"Swadh Restaurant","Kanmanike Village",Biryani,"Malabar Chicken Fry Biryani",199.00,3,4,2025-02-02,382
+Karnataka,Bengaluru,"Appu Donne Biriyani Palace","Rajarajeshwari Nagar",Biryani,"Biryani rice",120.00,4,177,2025-02-21,383
+Karnataka,Bengaluru,"Appu Donne Biriyani Palace","Rajarajeshwari Nagar",Biryani,"Kabab Briyani",180.00,4,30,2025-01-12,384
+Karnataka,Bengaluru,"Appu Donne Biriyani Palace","Rajarajeshwari Nagar",Biryani,"Mutton biryani",299.00,4,54,2025-02-08,385
+Karnataka,Bengaluru,"Swadh Restaurant","Kanmanike Village",Biryani,"Paneer Biryani",199.00,4,0,2025-05-22,386
+Karnataka,Bengaluru,"Appu Donne Biriyani Palace","Rajarajeshwari Nagar",Biryani,"Egg Briyani",140.00,3,8,2025-05-10,387
+Karnataka,Bengaluru,"Appu Donne Biriyani Palace","Rajarajeshwari Nagar",Starter,"Chicken kebab",170.00,4,102,2025-05-11,388
+Karnataka,Bengaluru,"Pizza Hut","Kanakapura Road","Veg Pizza","Bold BBQ Veggies",319.00,3,5,2025-04-16,389
+Karnataka,Bengaluru,"Appu Donne Biriyani Palace","Rajarajeshwari Nagar",Starter,"Chicken masala",190.00,5,34,2025-04-23,390
+Karnataka,Bengaluru,"Pizza Hut","Kanakapura Road","Veg Pizza","Ultimate Tandoori Veggie",379.00,5,5,2025-06-07,391
+Karnataka,Bengaluru,"Appu Donne Biriyani Palace","Rajarajeshwari Nagar",Starter,"Chicken fry",190.00,4,67,2025-04-11,392
+Karnataka,Bengaluru,"Pizza Hut","Kanakapura Road","Veg Pizza","Mazedar Makhni Paneer",379.00,4,4,2025-05-27,393
+Karnataka,Bengaluru,"Appu Donne Biriyani Palace","Rajarajeshwari Nagar",Starter,"Guntur Chicken",190.00,4,11,2025-04-23,394
+Karnataka,Bengaluru,"Pizza Hut","Kanakapura Road","Veg Pizza",Margherita,169.00,4,63,2025-05-25,395
+Karnataka,Bengaluru,"Swadh Restaurant","Kanmanike Village",Biryani,"Puttu Chicken Biryani",199.00,4,0,2025-01-21,396
+Karnataka,Bengaluru,"Appu Donne Biriyani Palace","Rajarajeshwari Nagar",Starter,"Chilli chicken",190.00,3,16,2025-07-03,397
+Karnataka,Bengaluru,"Pizza Hut","Kanakapura Road","Veg Pizza","Corn & Cheese",219.00,4,37,2025-04-30,398
+Karnataka,Bengaluru,"Swadh Restaurant","Kanmanike Village","Swadh Signature","Kizhi Poratta Poth",270.00,4,0,2025-02-17,399
+Karnataka,Bengaluru,"Pizza Hut","Kanakapura Road","Veg Pizza","Veggie Feast",259.00,4,58,2025-02-16,400
+Karnataka,Bengaluru,"Swadh Restaurant","Kanmanike Village","Swadh Signature","Kizhi Poratta Chicken",245.00,4,0,2025-05-28,401
+Karnataka,Bengaluru,"Pizza Hut","Kanakapura Road","Veg Pizza","Spiced Paneer",259.00,4,18,2025-01-19,402
+Karnataka,Bengaluru,"Swadh Restaurant","Kanmanike Village","Swadh Signature","Kizhi Poratta Egg",220.00,4,0,2025-05-08,403
+Karnataka,Bengaluru,"Pizza Hut","Kanakapura Road","Veg Pizza","Tandoori Paneer",319.00,4,69,2025-04-02,404
+Karnataka,Bengaluru,"Swadh Restaurant","Kanmanike Village","Swadh Signature","Kizhi Poratta Mix",290.00,4,0,2025-05-16,405
+Karnataka,Bengaluru,"Pizza Hut","Kanakapura Road","Veg Pizza","Country Feast",319.00,4,22,2025-02-27,406
+Karnataka,Bengaluru,"Pizza Hut","Kanakapura Road","Veg Pizza","Veggie Supreme",379.00,4,79,2025-07-02,407
+Karnataka,Bengaluru,"Appu Donne Biriyani Palace","Rajarajeshwari Nagar",Starter,"Chicken Loly Pop",180.00,4,8,2025-02-16,408
+Karnataka,Bengaluru,"Pizza Hut","Kanakapura Road","Veg Pizza","Margherita Pizza",169.00,4,213,2025-02-16,409
+Karnataka,Bengaluru,"Pizza Hut","Kanakapura Road","Non Veg Pizza","Sausage & Sweet Corn.",289.00,4,1,2025-08-17,410
+Karnataka,Bengaluru,"Pizza Hut","Kanakapura Road","Non Veg Pizza","Dhabe Da Keema",319.00,2,4,2025-08-06,411
+Karnataka,Bengaluru,"Appu Donne Biriyani Palace","Rajarajeshwari Nagar",Starter,"Raggi ball",35.00,4,26,2025-07-06,412
+Karnataka,Bengaluru,"Pizza Hut","Kanakapura Road","Non Veg Pizza","Sizzling Schezwan Chicken",319.00,5,5,2025-04-27,413
+Karnataka,Bengaluru,"Pizza Hut","Kanakapura Road","Non Veg Pizza","Nawabi Murg Makhni",409.00,4,1,2025-02-16,414
+Karnataka,Bengaluru,"Pizza Hut","Kanakapura Road","Non Veg Pizza","Chicken Sausage",259.00,5,15,2025-01-23,415
+Karnataka,Bengaluru,"Pizza Hut","Kanakapura Road","Non Veg Pizza","Murg Malai Chicken",379.00,5,7,2025-05-07,416
+Karnataka,Bengaluru,"Pizza Hut","Kanakapura Road","Non Veg Pizza","Chicken Tikka",379.00,5,10,2025-05-17,417
+Karnataka,Bengaluru,"Pizza Hut","Kanakapura Road","Non Veg Pizza","Chicken Pepperoni",379.00,4,26,2025-05-20,418
+Karnataka,Bengaluru,"Pizza Hut","Kanakapura Road","Non Veg Pizza","Chicken Supreme",409.00,4,8,2025-05-09,419
+Karnataka,Bengaluru,"Pizza Hut","Kanakapura Road","Non Veg Pizza","Chicken Tikka Supreme",409.00,3,8,2025-02-27,420
+Karnataka,Bengaluru,"Appu Donne Biriyani Palace","Rajarajeshwari Nagar",Starter,"Chikhen Lolli pop",200.00,4,7,2025-04-23,421
+Karnataka,Bengaluru,"Pizza Hut","Kanakapura Road","Non Veg Pizza","Triple Chicken Feast",409.00,5,12,2025-05-02,422
+Karnataka,Bengaluru,"Pizza Hut","Kanakapura Road","Thin n Crispy Pizzas","Bold BBQ Veggie Thin n Crispy",749.00,5,7,2025-01-01,423
+Karnataka,Bengaluru,"Appu Donne Biriyani Palace","Rajarajeshwari Nagar",Starter,"Pudina Chicken",190.00,4,0,2025-01-02,424
+Karnataka,Bengaluru,"Pizza Hut","Kanakapura Road","Thin n Crispy Pizzas","Tandoori Paneer Thin n Crispy",749.00,5,6,2025-08-27,425
+Karnataka,Bengaluru,"Appu Donne Biriyani Palace","Rajarajeshwari Nagar","Main Course","Mutton fry",290.00,4,19,2025-05-10,426
+Karnataka,Bengaluru,"Pizza Hut","Kanakapura Road","Thin n Crispy Pizzas","Mexican Fiesta Thin n Crispy",749.00,4,1,2025-02-03,427
+Karnataka,Bengaluru,"Appu Donne Biriyani Palace","Rajarajeshwari Nagar","Main Course","Mutton masala",290.00,5,3,2025-08-08,428
+Karnataka,Bengaluru,"Pizza Hut","Kanakapura Road","Thin n Crispy Pizzas","Dhabe Da Keema Thin n Crispy",749.00,4,0,2025-04-06,429
+Karnataka,Bengaluru,"Appu Donne Biriyani Palace","Rajarajeshwari Nagar","Main Course","Mutton chops",290.00,4,7,2025-02-23,430
+Karnataka,Bengaluru,"Pizza Hut","Kanakapura Road","Thin n Crispy Pizzas","Chicken Pepperoni Thin n Crispy",849.00,4,0,2025-05-06,431
+Karnataka,Bengaluru,"Appu Donne Biriyani Palace","Rajarajeshwari Nagar","Main Course","Mutton kurma",290.00,4,5,2025-02-16,432
+Karnataka,Bengaluru,"Pizza Hut","Kanakapura Road","Thin n Crispy Pizzas","Chicken Supreme Thin n Crispy",949.00,4,1,2025-04-28,433
+Karnataka,Bengaluru,"Pizza Hut","Kanakapura Road","Hut CafÃ©","Cold Coffee",149.00,4,1,2025-02-17,434
+Karnataka,Bengaluru,"Pizza Hut","Kanakapura Road","Hut CafÃ©","Cold Chocolate",149.00,4,3,2025-02-16,435
+Karnataka,Bengaluru,"Pizza Hut","Kanakapura Road","Hut CafÃ©","Frappe Mocha",169.00,4,0,2025-08-20,436
+Karnataka,Bengaluru,"Pizza Hut","Kanakapura Road","Hut CafÃ©","Masala Pop",129.00,4,0,2025-08-25,437
+Karnataka,Bengaluru,"Pizza Hut","Kanakapura Road","Hut CafÃ©","Lemon Mint Mojito",129.00,4,0,2025-04-27,438
+Karnataka,Bengaluru,"Pizza Hut","Kanakapura Road","Hut CafÃ©","Masala Lemonade",109.00,4,1,2025-05-09,439
+Karnataka,Bengaluru,"Pizza Hut","Kanakapura Road","Hut CafÃ©","Masala Pepsi",109.00,4,0,2025-01-16,440
+Karnataka,Bengaluru,"Pizza Hut","Kanakapura Road","Hut CafÃ©","Masala Mirinda",109.00,4,0,2025-07-08,441
+Karnataka,Bengaluru,"Pizza Hut","Kanakapura Road","Hut CafÃ©","Pepsi Glass",99.00,4,0,2025-08-19,442
+Karnataka,Bengaluru,"Pizza Hut","Kanakapura Road","Hut CafÃ©","Mirinda Glass",99.00,4,0,2025-07-11,443
+Karnataka,Bengaluru,"Pizza Hut","Kanakapura Road","Hut CafÃ©","7Up Glass",99.00,4,0,2025-07-10,444
+Karnataka,Bengaluru,"Pizza Hut","Kanakapura Road",Pasta,"Spicy Schezwan Pasta Chicken",199.00,4,2,2025-02-16,445
+Karnataka,Bengaluru,"Appu Donne Biriyani Palace","Rajarajeshwari Nagar","Main Course","Mutton keema balls",300.00,5,4,2025-08-17,446
+Karnataka,Bengaluru,"Appu Donne Biriyani Palace","Rajarajeshwari Nagar","Main Course","Mutton keem dry",300.00,4,0,2025-08-12,447
+Karnataka,Bengaluru,"Swadh Restaurant","Kanmanike Village","Swadh Signature","Chicken Pothi Choru",220.00,4,0,2025-05-15,448
+Karnataka,Bengaluru,"Appu Donne Biriyani Palace","Rajarajeshwari Nagar","Main Course","Bottiy fry",200.00,4,4,2025-08-13,449
+Karnataka,Bengaluru,"Pizza Hut","Kanakapura Road",Pasta,"Classic Mushroom Pasta",209.00,4,10,2025-01-22,450
+Karnataka,Bengaluru,"Appu Donne Biriyani Palace","Rajarajeshwari Nagar","Main Course","Head Mutton",220.00,4,0,2025-05-09,451
+Karnataka,Bengaluru,"Pizza Hut","Kanakapura Road",Pasta,"Cosy Comfort White Sauce Pasta",189.00,3,4,2025-04-03,452
+Karnataka,Bengaluru,"Pizza Hut","Kanakapura Road",Pasta,"Cosy Comfort White Sauce Chicken Pasta",209.00,4,1,2025-07-14,453
+Karnataka,Bengaluru,"Appu Donne Biriyani Palace","Rajarajeshwari Nagar","Main Course","Bottiy masala",190.00,4,0,2025-05-27,454
+Karnataka,Bengaluru,"Pizza Hut","Kanakapura Road",Pasta,"Spicy Red Schezwan Pasta",179.00,4,13,2025-02-16,455
+Karnataka,Bengaluru,"Appu Donne Biriyani Palace","Rajarajeshwari Nagar",Egg,"Boiled egg",20.00,4,44,2025-05-06,456
+Karnataka,Bengaluru,"Swadh Restaurant","Kanmanike Village","Swadh Signature","Chicken Chatti Choru",240.00,4,0,2025-07-14,457
+Karnataka,Bengaluru,"Pizza Hut","Kanakapura Road",Pasta,"Tomato Twist Red Sauce Pasta",169.00,5,21,2025-06-03,458
+Karnataka,Bengaluru,"Swadh Restaurant","Kanmanike Village",Breads,"Kerala Paratha",20.00,4,0,2025-05-25,459
+Karnataka,Bengaluru,"Pizza Hut","Kanakapura Road",Pasta,"Tandoori Murg Pasta",189.00,3,3,2025-05-24,460
+Karnataka,Bengaluru,"Swadh Restaurant","Kanmanike Village",Breads,Puttu,50.00,4,0,2025-05-08,461
+Karnataka,Bengaluru,"Swadh Restaurant","Kanmanike Village",Breads,Appam,15.00,4,0,2025-02-02,462
+Karnataka,Bengaluru,"Swadh Restaurant","Kanmanike Village",Breads,Chapati,15.00,4,0,2025-06-25,463
+Karnataka,Bengaluru,"Pizza Hut","Kanakapura Road",Pasta,"Tandoori Paneer Pasta",169.00,4,10,2025-06-28,464
+Karnataka,Bengaluru,"Pizza Hut","Kanakapura Road",Pasta,"Penne McN Cheese Pasta",209.00,4,17,2025-08-17,465
+Karnataka,Bengaluru,"Swadh Restaurant","Kanmanike Village","Breakfast Combos","Appam & Egg Curry",110.00,4,0,2025-07-23,466
+Karnataka,Bengaluru,"Appu Donne Biriyani Palace","Rajarajeshwari Nagar",Egg,"Egg masala",100.00,4,13,2025-05-10,467
+Karnataka,Bengaluru,"Pizza Hut","Kanakapura Road",Pasta,"Penne McN Cheese & Chicken Pasta",229.00,2,3,2025-02-16,468
+Karnataka,Bengaluru,"Pizza Hut","Kanakapura Road","One Plus One Medium @649","Super Value Deal : 2 Medium Veg Pizzas starting at Rs 719 (Save Upto 41%).",649.00,5,4,2025-07-04,469
+Karnataka,Bengaluru,"Appu Donne Biriyani Palace","Rajarajeshwari Nagar",Egg,"Egg Biryani",120.00,5,3,2025-02-22,470
+Karnataka,Bengaluru,"Pizza Hut","Kanakapura Road","One Plus One Medium @649","Super Value Deal : 2 Medium Non-Veg Pizzas starting at Rs 749 (Save Upto 39%).",749.00,4,7,2025-01-29,471
+Karnataka,Bengaluru,"Appu Donne Biriyani Palace","Rajarajeshwari Nagar",Egg,"Egg boti fry",230.00,4,7,2025-06-21,472
+Karnataka,Bengaluru,"Swadh Restaurant","Kanmanike Village","Breakfast Combos","Puttu & Egg Curry",110.00,4,0,2025-07-06,473
+Karnataka,Bengaluru,"Appu Donne Biriyani Palace","Rajarajeshwari Nagar",Bread,"Leg Soup",150.00,2,4,2025-08-06,474
+Karnataka,Bengaluru,"Pizza Hut","Kanakapura Road","Garlic Bread","Cheese Garlic Bread",159.00,4,165,2025-07-25,475
+Karnataka,Bengaluru,"Appu Donne Biriyani Palace","Rajarajeshwari Nagar",Bread,Paratha,80.00,3,14,2025-06-09,476
+Karnataka,Bengaluru,"Appu Donne Biriyani Palace","Rajarajeshwari Nagar",Bread,"Pain Soup",60.00,4,0,2025-07-17,477
+Karnataka,Bengaluru,"Pizza Hut","Kanakapura Road","Garlic Bread","Exotica Veggie Garlic Bread",159.00,4,32,2025-08-08,478
+Karnataka,Bengaluru,"Pizza Hut","Kanakapura Road","Garlic Bread","Classic Bread Stix",119.00,4,78,2025-02-16,479
+Karnataka,Bengaluru,"Pizza Hut","Kanakapura Road","Garlic Bread","Loaded Bread Stix",169.00,4,58,2025-02-16,480
+Karnataka,Bengaluru,"Appu Donne Biriyani Palace","Rajarajeshwari Nagar",Rice,"White rice",70.00,5,6,2025-06-09,481
+Karnataka,Bengaluru,"Pizza Hut","Kanakapura Road","Garlic Bread","Garlic Bread Spicy Supreme",169.00,4,118,2025-08-29,482
+Karnataka,Bengaluru,"Pizza Hut","Kanakapura Road","Garlic Bread","Masala Keema Garlic Bread",189.00,5,11,2025-04-04,483
+Karnataka,Bengaluru,"Pizza Hut","Kanakapura Road",Appetizer,"Cheezy Sprinkled Fries",109.00,4,20,2025-08-26,484
+Karnataka,Bengaluru,"Bismillah Taj Hotel","Rajarajeshwari Nagar",Item,"Chapati [ double layer]",45.00,4,0,2025-02-16,485
+Karnataka,Bengaluru,"Bismillah Taj Hotel","Rajarajeshwari Nagar",Item,"Masala akki roti",45.00,4,0,2025-07-02,486
+Karnataka,Bengaluru,"Bismillah Taj Hotel","Rajarajeshwari Nagar",Item,"Ghee chapati",65.00,4,0,2025-07-22,487
+Karnataka,Bengaluru,"Pizza Hut","Kanakapura Road",Appetizer,"BBQ Baked Chicken Wings 6pc",269.00,5,3,2025-07-09,488
+Karnataka,Bengaluru,"Swadh Restaurant","Kanmanike Village","Breakfast Combos","Puttu & Kadala Curry",110.00,4,0,2025-04-25,489
+Karnataka,Bengaluru,"Bismillah Taj Hotel","Rajarajeshwari Nagar",Item,"Rice + rasam + papad",70.00,4,0,2025-07-03,490
+Karnataka,Bengaluru,"Pizza Hut","Kanakapura Road",Appetizer,"BBQ Baked Chicken Wings 4pc",219.00,4,1,2025-07-16,491
+Karnataka,Bengaluru,"Swadh Restaurant","Kanmanike Village","Breakfast Combos","Kerala Paratha & Egg Curry",99.00,4,0,2025-08-02,492
+Karnataka,Bengaluru,"Pizza Hut","Kanakapura Road",Appetizer,"Sprinkled Fries - New",109.00,4,13,2025-07-23,493
+Karnataka,Bengaluru,"Bismillah Taj Hotel","Rajarajeshwari Nagar",Item,"2 chapati [double layer] with 2 curry",100.00,4,0,2025-05-03,494
+Karnataka,Bengaluru,"Pizza Hut","Kanakapura Road",Appetizer,"Spicy Baked Chicken Wings 4pc",209.00,3,11,2025-05-24,495
+Karnataka,Bengaluru,"Swadh Restaurant","Kanmanike Village","Breakfast Combos","Kerala Gheeroast Dosa",90.00,4,0,2025-04-29,496
+Karnataka,Bengaluru,"Pizza Hut","Kanakapura Road",Appetizer,"Spicy Baked Chicken Wings 6pc",259.00,5,4,2025-08-06,497
+Karnataka,Bengaluru,"Pizza Hut","Kanakapura Road",Appetizer,"Jalapeno Poppers",119.00,4,40,2025-08-06,498
+Karnataka,Bengaluru,"Swadh Restaurant","Kanmanike Village","Breakfast Combos","Appam & Chicken Curry",160.00,4,0,2025-01-22,499
+Karnataka,Bengaluru,"Bismillah Taj Hotel","Rajarajeshwari Nagar",Item,Dal,45.00,4,0,2025-05-25,500
+Karnataka,Bengaluru,"Swadh Restaurant","Kanmanike Village","Breakfast Combos","Appam & Kadala Curry",160.00,4,0,2025-08-26,501
+Karnataka,Bengaluru,"Pizza Hut","Kanakapura Road",Appetizer,"Jalapeno Pepper Dip",28.57,4,7,2025-06-25,502
+Karnataka,Bengaluru,"Bismillah Taj Hotel","Rajarajeshwari Nagar",Item,"Veg carry",55.00,4,0,2025-02-07,503
+Karnataka,Bengaluru,"Bismillah Taj Hotel","Rajarajeshwari Nagar",Item,"Boiled egg",22.00,4,0,2025-01-24,504
+Karnataka,Bengaluru,"Swadh Restaurant","Kanmanike Village","Breakfast Combos","Appam & Poth Erachi Curry",170.00,4,0,2025-06-07,505
+Karnataka,Bengaluru,"Bismillah Taj Hotel","Rajarajeshwari Nagar",Item,"2 masala akki roti with tomato curry",85.00,4,0,2025-02-16,506
+Karnataka,Bengaluru,"Pizza Hut","Kanakapura Road",Appetizer,"Veg Mayonnaise Dip",28.57,4,17,2025-02-16,507
+Karnataka,Bengaluru,"Swadh Restaurant","Kanmanike Village","Breakfast Combos","Kerala Parota & Chicken Curry",195.00,4,0,2025-02-07,508
+Karnataka,Bengaluru,"Bismillah Taj Hotel","Rajarajeshwari Nagar",Item,"2 chapati [double layer] with egg bhurji",130.00,4,0,2025-04-26,509
+Karnataka,Bengaluru,"Pizza Hut","Kanakapura Road",Appetizer,"Tomato Ketchup",0.95,4,132,2025-02-08,510
+Karnataka,Bengaluru,"Pizza Hut","Kanakapura Road",Appetizer,"Momo Dip",30.00,4,10,2025-04-10,511
+Karnataka,Bengaluru,"Nisarga Family Daba","Rajarajeshwari Nagar",Recommended,"Mutton Pepper Dry",440.00,4,0,2025-04-08,512
+Karnataka,Bengaluru,"A2B - Adyar Ananda Bhavan","Kanakapura Road",Recommended,"Kara Kozhukattai (2 Pcs)",60.00,4,37,2025-02-02,513
+Karnataka,Bengaluru,"Swadh Restaurant","Kanmanike Village","Breakfast Combos","Kerala Parota & Poth Erachi Curry",205.00,4,0,2025-08-18,514
+Karnataka,Bengaluru,"A2B - Adyar Ananda Bhavan","Kanakapura Road",Recommended,"Sweet Kozhukattai (2 Pcs)",60.00,5,50,2025-08-10,515
+Karnataka,Bengaluru,"Swadh Restaurant","Kanmanike Village","Breakfast Combos","Appam & Egg Roast",110.00,4,0,2025-04-19,516
+Karnataka,Bengaluru,"Nisarga Family Daba","Rajarajeshwari Nagar",Recommended,"Kalmi Kabab (Chicken)",110.00,4,6,2025-07-17,517
+Karnataka,Bengaluru,"A2B - Adyar Ananda Bhavan","Kanakapura Road",Recommended,"Green Peas Masala",240.00,4,82,2025-04-11,518
+Karnataka,Bengaluru,"Nisarga Family Daba","Rajarajeshwari Nagar",Recommended,"Steam Rice",90.00,4,0,2025-08-02,519
+Karnataka,Bengaluru,"A2B - Adyar Ananda Bhavan","Kanakapura Road",Recommended,"Palak Mushroom",290.00,5,21,2025-01-23,520
+Karnataka,Bengaluru,"A2B - Adyar Ananda Bhavan","Kanakapura Road",Recommended,"Kadai Panneer",310.00,4,201,2025-01-10,521
+Karnataka,Bengaluru,"A2B - Adyar Ananda Bhavan","Kanakapura Road",Recommended,"Malai Koftha",280.00,4,72,2025-02-16,522
+Karnataka,Bengaluru,"A2B - Adyar Ananda Bhavan","Kanakapura Road",Recommended,"Veg Mix Masala Curry",250.00,4,153,2025-04-10,523
+Karnataka,Bengaluru,"A2B - Adyar Ananda Bhavan","Kanakapura Road",Recommended,"Dhal Makhani",240.00,4,31,2025-02-03,524
+Karnataka,Bengaluru,"A2B - Adyar Ananda Bhavan","Kanakapura Road",Recommended,"Kadai Vegetable",290.00,4,96,2025-06-29,525
+Karnataka,Bengaluru,"Big Bowl","Kengeri Satellite Town",Recommended,"Chicken Fried Rice Bowl.",309.00,4,0,2025-08-29,526
+Karnataka,Bengaluru,"A2B - Adyar Ananda Bhavan","Kanakapura Road",Recommended,"Panneer Butter Masala",290.00,4,392,2025-08-11,527
+Karnataka,Bengaluru,"Big Bowl","Kengeri Satellite Town",Recommended,"Chicken Chilli Garlic Fried Rice Bowl.",309.00,4,0,2025-08-08,528
+Karnataka,Bengaluru,"Olio - The Wood Fired Pizzeria","Jawaharlal Nehru Road","House Special Garlic Breads!","Popeye's Spinach Garlic Bread",239.00,4,94,2025-05-27,529
+Karnataka,Bengaluru,"Big Bowl","Kengeri Satellite Town",Recommended,"Chicken Chilli Garlic Noodles Bowl.",309.00,4,0,2025-05-08,530
+Karnataka,Bengaluru,"Olio - The Wood Fired Pizzeria","Jawaharlal Nehru Road","House Special Garlic Breads!","Chicken Tikka Garlic Bread",249.00,4,9,2025-02-16,531
+Karnataka,Bengaluru,"Big Bowl","Kengeri Satellite Town",Recommended,"Veg Hakka Noodles Bowl",259.00,4,32,2025-06-09,532
+Karnataka,Bengaluru,"Olio - The Wood Fired Pizzeria","Jawaharlal Nehru Road","House Special Garlic Breads!","Creamy Spinach & Mushroom Garlic Bread",239.00,5,3,2025-01-09,533
+Karnataka,Bengaluru,"Big Bowl","Kengeri Satellite Town",Recommended,"Veg Chilli Garlic Noodles Bowl",259.00,4,32,2025-08-07,534
+Karnataka,Bengaluru,"Olio - The Wood Fired Pizzeria","Jawaharlal Nehru Road","House Special Garlic Breads!","Herbed Chicken Mushroom Spinach Garlic Bread",249.00,4,21,2025-07-18,535
+Karnataka,Bengaluru,"A2B - Adyar Ananda Bhavan","Kanakapura Road",Recommended,"Mushroom Masala",290.00,5,85,2025-05-18,536
+Karnataka,Bengaluru,"A2B - Adyar Ananda Bhavan","Kanakapura Road",Recommended,"Paneer Tikka Masala",310.00,4,147,2025-05-27,537
+Karnataka,Bengaluru,"Big Bowl","Kengeri Satellite Town",Recommended,"Chicken Fried Rice Bowl",309.00,4,19,2025-02-16,538
+Karnataka,Bengaluru,"Olio - The Wood Fired Pizzeria","Jawaharlal Nehru Road","Signature Garlic Knots","Signature Garlic Knots with Cheesy Dip",199.00,4,22,2025-01-28,539
+Karnataka,Bengaluru,"A2B - Adyar Ananda Bhavan","Kanakapura Road",Recommended,"Dhal Fry",230.00,5,88,2025-07-05,540
+Karnataka,Bengaluru,"Big Bowl","Kengeri Satellite Town",Recommended,"Chicken Chilli Garlic Fried Rice Bowl",309.00,4,10,2025-06-01,541
+Karnataka,Bengaluru,"Olio - The Wood Fired Pizzeria","Jawaharlal Nehru Road","Signature Garlic Knots","Peri-Peri Garlic Knots with Cheesy Dip",199.00,5,7,2025-07-25,542
+Karnataka,Bengaluru,"A2B - Adyar Ananda Bhavan","Kanakapura Road",Recommended,"Kaju Mutter",295.00,5,25,2025-04-06,543
+Karnataka,Bengaluru,"Big Bowl","Kengeri Satellite Town",Recommended,"Chicken Chilli Garlic Noodles Bowl",309.00,4,19,2025-05-20,544
+Karnataka,Bengaluru,"Big Bowl","Kengeri Satellite Town",Recommended,"Veg Manchurian Bowl",309.00,4,51,2025-06-27,545
+Karnataka,Bengaluru,"A2B - Adyar Ananda Bhavan","Kanakapura Road",Recommended,"Kaju Masala",300.00,4,161,2025-01-01,546
+Karnataka,Bengaluru,"Big Bowl","Kengeri Satellite Town",Recommended,"Hunan Paneer Bowl",319.00,5,6,2025-06-12,547
+Karnataka,Bengaluru,"A2B - Adyar Ananda Bhavan","Kanakapura Road",Recommended,"Alu Gobi Masala",280.00,4,48,2025-02-16,548
+Karnataka,Bengaluru,"A2B - Adyar Ananda Bhavan","Kanakapura Road",Recommended,"Dhal Thadka",225.00,5,50,2025-08-25,549
+Karnataka,Bengaluru,"Big Bowl","Kengeri Satellite Town",Recommended,"Chilli Paneer Bowl",309.00,4,21,2025-05-04,550
+Karnataka,Bengaluru,"Big Bowl","Kengeri Satellite Town",Recommended,"Hunan Chicken Bowl",319.00,5,14,2025-02-02,551
+Karnataka,Bengaluru,"Olio - The Wood Fired Pizzeria","Jawaharlal Nehru Road","Signature Garlic Knots","Garlic Knots  Infinity Bucket (35 units)",299.00,4,4,2025-08-11,552
+Karnataka,Bengaluru,"Big Bowl","Kengeri Satellite Town",Recommended,"Black Pepper Chicken Bowl",319.00,5,7,2025-06-10,553
+Karnataka,Bengaluru,"Olio - The Wood Fired Pizzeria","Jawaharlal Nehru Road","Signature Garlic Knots","The Royal Garlic Knots with Cheesy Dip",199.00,5,3,2025-05-08,554
+Karnataka,Bengaluru,"Big Bowl","Kengeri Satellite Town",Recommended,"Chilli Chicken Bowl",319.00,4,33,2025-07-08,555
+Karnataka,Bengaluru,"Olio - The Wood Fired Pizzeria","Jawaharlal Nehru Road",Pastas,"Al Pesto Genovese Pasta",249.00,5,46,2025-02-21,556
+Karnataka,Bengaluru,"Big Bowl","Kengeri Satellite Town",Recommended,"Chicken Manchurian Bowl",319.00,5,12,2025-06-28,557
+Karnataka,Bengaluru,"A2B - Adyar Ananda Bhavan","Kanakapura Road",Recommended,"Veg Kollapuri",290.00,4,27,2025-01-04,558
+Karnataka,Bengaluru,"Olio - The Wood Fired Pizzeria","Jawaharlal Nehru Road",Pastas,"Classic Arrabbiata Pasta",249.00,4,47,2025-02-16,559
+Karnataka,Bengaluru,"A2B - Adyar Ananda Bhavan","Kanakapura Road",Recommended,"A2b Special Curry",310.00,4,16,2025-01-16,560
+Karnataka,Bengaluru,"Big Bowl","Kengeri Satellite Town",Recommended,"Kung Pao Chicken Bowl",319.00,4,23,2025-06-20,561
+Karnataka,Bengaluru,"A2B - Adyar Ananda Bhavan","Kanakapura Road",Recommended,"Palak Paneer",300.00,5,125,2025-01-24,562
+Karnataka,Bengaluru,"Olio - The Wood Fired Pizzeria","Jawaharlal Nehru Road",Pastas,"Herbed Chicken Pesto Pasta",299.00,4,16,2025-04-21,563
+Karnataka,Bengaluru,"Big Bowl","Kengeri Satellite Town",Recommended,"Mutter Mushroom Dhaba Masala Rice Bowl",319.00,4,14,2025-04-11,564
+Karnataka,Bengaluru,"Big Bowl","Kengeri Satellite Town",Recommended,"Paneer Dhaba Masala Rice Bowl",319.00,4,7,2025-01-12,565
+Karnataka,Bengaluru,"Olio - The Wood Fired Pizzeria","Jawaharlal Nehru Road",Pastas,"Pollo Di Arrabbiata Pasta",299.00,4,8,2025-05-24,566
+Karnataka,Bengaluru,"Olio - The Wood Fired Pizzeria","Jawaharlal Nehru Road",Pastas,"Chicken Kingdom Arrabbiata Pasta",399.00,4,0,2025-04-27,567
+Karnataka,Bengaluru,"Big Bowl","Kengeri Satellite Town",Desserts,"Chocolate Mousse - Small",59.00,4,40,2025-02-16,568
+Karnataka,Bengaluru,"Big Bowl","Kengeri Satellite Town",Desserts,"Black Forest Mousse Cake",59.00,4,21,2025-02-16,569
+Karnataka,Bengaluru,"Olio - The Wood Fired Pizzeria","Jawaharlal Nehru Road",Pastas,"Chicken Kingdom Pesto Pasta",399.00,4,0,2025-02-16,570
+Karnataka,Bengaluru,"Big Bowl","Kengeri Satellite Town",Desserts,"Salted Caramel Choco Mousse",59.00,4,11,2025-06-10,571
+Karnataka,Bengaluru,"Olio - The Wood Fired Pizzeria","Jawaharlal Nehru Road",Pastas,"Forest Chicken Arrabbiata Pasta",379.00,4,0,2025-04-09,572
+Karnataka,Bengaluru,"Big Bowl","Kengeri Satellite Town",Desserts,"Choco Lava",99.00,4,20,2025-06-17,573
+Karnataka,Bengaluru,"Olio - The Wood Fired Pizzeria","Jawaharlal Nehru Road",Pastas,"Forest Chicken Pesto Pasta",379.00,4,0,2025-05-20,574
+Karnataka,Bengaluru,"Big Bowl","Kengeri Satellite Town",Drinks,"Pepsi Pet Bottle",57.00,4,18,2025-02-16,575
+Karnataka,Bengaluru,"Olio - The Wood Fired Pizzeria","Jawaharlal Nehru Road",Pastas,"Paneer Loaded Arrabiatta Pasta",299.00,4,0,2025-01-25,576
+Karnataka,Bengaluru,"Olio - The Wood Fired Pizzeria","Jawaharlal Nehru Road",Pastas,"Paneer Loaded Pesto Pasta",299.00,4,0,2025-06-29,577
+Karnataka,Bengaluru,"Big Bowl","Kengeri Satellite Town",Drinks,"7 Up",57.00,4,8,2025-02-12,578
+Karnataka,Bengaluru,"Olio - The Wood Fired Pizzeria","Jawaharlal Nehru Road",Beverages,"Diet Coke",60.00,4,20,2025-05-03,579
+Karnataka,Bengaluru,"Big Bowl","Kengeri Satellite Town",Drinks,"Coolberg Peach",118.75,5,1,2025-02-13,580
+Karnataka,Bengaluru,"Olio - The Wood Fired Pizzeria","Jawaharlal Nehru Road",Beverages,Coke,60.00,4,31,2025-08-01,581
+Karnataka,Bengaluru,"Olio - The Wood Fired Pizzeria","Jawaharlal Nehru Road",Beverages,"HRX 25g Protein Shake (Chocolate)",152.00,4,0,2025-08-16,582
+Karnataka,Bengaluru,"Big Bowl","Kengeri Satellite Town",Drinks,"Coolberg Cranberry",118.75,5,2,2025-01-29,583
+Karnataka,Bengaluru,"Big Bowl","Kengeri Satellite Town",Drinks,"Peach Ice Tea",99.00,4,1,2025-05-21,584
+Karnataka,Bengaluru,"Big Bowl","Kengeri Satellite Town",Drinks,"Aam Panna",99.00,5,4,2025-01-12,585
+Karnataka,Bengaluru,"Big Bowl","Kengeri Satellite Town",Recommended,"Veg Hakka Noodles Bowl.",269.00,4,0,2025-02-16,586
+Karnataka,Bengaluru,"Big Bowl","Kengeri Satellite Town",Drinks,"Masala Shikanji",99.00,5,3,2025-04-05,587
+Karnataka,Bengaluru,"Olio - The Wood Fired Pizzeria","Jawaharlal Nehru Road",Beverages,"Lemon Iced Tea",85.00,4,0,2025-02-22,588
+Karnataka,Bengaluru,"Big Bowl","Kengeri Satellite Town",Recommended,"Veg Chilli Garlic Noodles Bowl.",269.00,4,32,2025-01-02,589
+Karnataka,Bengaluru,"Big Bowl","Kengeri Satellite Town",Drinks,"Lemon Ice Tea",99.00,5,4,2025-02-15,590
+Karnataka,Bengaluru,"Olio - The Wood Fired Pizzeria","Jawaharlal Nehru Road",Beverages,"Peach Iced Tea",85.00,4,1,2025-05-31,591
+Karnataka,Bengaluru,"Big Bowl","Kengeri Satellite Town",Drinks,Water,28.50,4,2,2025-05-10,592
+Karnataka,Bengaluru,"Olio - The Wood Fired Pizzeria","Jawaharlal Nehru Road","Krispy Kreme Doughnuts and Coffee","Chocolate Iced Glazed  Doughnut",125.00,4,1,2025-05-24,593
+Karnataka,Bengaluru,"Big Bowl","Kengeri Satellite Town",Extras,"Extra Crispy Noodles",20.00,4,9,2025-08-31,594
+Karnataka,Bengaluru,"Olio - The Wood Fired Pizzeria","Jawaharlal Nehru Road","Krispy Kreme Doughnuts and Coffee","Original Glazed Doughnut",100.00,4,0,2025-02-26,595
+Karnataka,Bengaluru,"Big Bowl","Kengeri Satellite Town",Extras,"Momo Chutney",20.00,4,0,2025-08-30,596
+Karnataka,Bengaluru,"Olio - The Wood Fired Pizzeria","Jawaharlal Nehru Road","Krispy Kreme Doughnuts and Coffee","Chocolate Dream Cake Doughnut",129.00,3,3,2025-02-08,597
+Karnataka,Bengaluru,"Big Bowl","Kengeri Satellite Town",Extras,"Schezwan Dip",20.00,4,0,2025-02-04,598
+Karnataka,Bengaluru,"Olio - The Wood Fired Pizzeria","Jawaharlal Nehru Road","Krispy Kreme Doughnuts and Coffee","Vanilla Choco Chip Doughnut",129.00,4,0,2025-04-19,599
+Karnataka,Bengaluru,"Big Bowl","Kengeri Satellite Town",Extras,"Mayo Dip",20.00,4,0,2025-08-03,600
+Karnataka,Bengaluru,"Olio - The Wood Fired Pizzeria","Jawaharlal Nehru Road","Pasta Lunch Box","Lunch Box - Al Pesto Genovese Pasta",299.00,4,1,2025-06-30,601
+Karnataka,Bengaluru,"Olio - The Wood Fired Pizzeria","Jawaharlal Nehru Road","Pasta Lunch Box","Lunch Box - Classic Arrabbiata Pasta",299.00,4,5,2025-02-11,602
+Karnataka,Bengaluru,"Olio - The Wood Fired Pizzeria","Jawaharlal Nehru Road","Pasta Lunch Box","Lunch Box - Herbed Chicken Pesto Pasta",349.00,5,2,2025-07-05,603
+Karnataka,Bengaluru,"Olio - The Wood Fired Pizzeria","Jawaharlal Nehru Road","Pasta Lunch Box","Lunch Box - Pollo Di Arrabbiata Pasta",349.00,4,0,2025-06-16,604
+Karnataka,Bengaluru,"Olio - The Wood Fired Pizzeria","Jawaharlal Nehru Road",Desserts,"Choco Lava Cake",119.00,4,45,2025-05-22,605
+Karnataka,Bengaluru,"Olio - The Wood Fired Pizzeria","Jawaharlal Nehru Road",Desserts,"Tiramisu Doughnut Cake",139.00,3,3,2025-08-11,606
+Karnataka,Bengaluru,"Big Bowl","Kengeri Satellite Town",Extras,"Sweet Chilli Dip",20.00,4,0,2025-02-16,607
+Karnataka,Bengaluru,"Olio - The Wood Fired Pizzeria","Jawaharlal Nehru Road","Half & Half Pizza","Half &Half Medium Pizza",508.00,3,3,2025-05-02,608
+Karnataka,Bengaluru,"Olio - The Wood Fired Pizzeria","Jawaharlal Nehru Road",Recommended,"8-Cheese Pizza",339.00,4,0,2025-02-16,609
+Karnataka,Bengaluru,"Olio - The Wood Fired Pizzeria","Jawaharlal Nehru Road","Half & Half Pizza","Half &Half Large Pizza",698.00,4,9,2025-05-13,610
+Karnataka,Bengaluru,"Olio - The Wood Fired Pizzeria","Jawaharlal Nehru Road",Recommended,"Four Cheese Pizza",299.00,4,0,2025-01-08,611
+Karnataka,Bengaluru,"Olio - The Wood Fired Pizzeria","Jawaharlal Nehru Road","Crazy Deals","Corn and Onion Pizza + Knots Combo",499.00,4,2,2025-06-12,612
+Karnataka,Bengaluru,"Olio - The Wood Fired Pizzeria","Jawaharlal Nehru Road",Recommended,"Deluxe Veggie Pizza",279.00,4,4,2025-04-03,613
+Karnataka,Bengaluru,"Olio - The Wood Fired Pizzeria","Jawaharlal Nehru Road","Crazy Deals","Deluxe Veggie Pizza + Knots Combo",499.00,4,1,2025-08-03,614
+Karnataka,Bengaluru,"Olio - The Wood Fired Pizzeria","Jawaharlal Nehru Road",Recommended,"Margherita Pizza",279.00,4,134,2025-06-03,615
+Karnataka,Bengaluru,KFC,Kengeri,"EPIC VALUE MEALS FOR 1-2 (UP TO 22% OFF)","Classic Zinger Pepsi Bottle Combo",289.00,4,1,2025-06-10,616
+Karnataka,Bengaluru,"Olio - The Wood Fired Pizzeria","Jawaharlal Nehru Road","Royal 4in1 Pizza","Royal 4in1 Non Veg Pizza",1199.00,4,3,2025-08-09,617
+Karnataka,Bengaluru,"Olio - The Wood Fired Pizzeria","Jawaharlal Nehru Road",Recommended,"Blazing Onion & Paprika Pizza",259.00,4,0,2025-07-21,618
+Karnataka,Bengaluru,"Olio - The Wood Fired Pizzeria","Jawaharlal Nehru Road","Royal 4in1 Pizza","Royal 4in1 Veg Pizza",999.00,5,3,2025-08-23,619
+Karnataka,Bengaluru,"Olio - The Wood Fired Pizzeria","Jawaharlal Nehru Road",Recommended,"Country Feast Pizza",299.00,4,0,2025-02-16,620
+Karnataka,Bengaluru,"Olio - The Wood Fired Pizzeria","Jawaharlal Nehru Road","Royal 4in1 Pizza","Royal 4in1 Chef's Special Chicken Pizza",1199.00,4,2,2025-02-16,621
+Karnataka,Bengaluru,KFC,Kengeri,"EPIC VALUE MEALS FOR 1-2 (UP TO 22% OFF)","Classic Chicken Roll Feast",398.00,4,1,2025-06-15,622
+Karnataka,Bengaluru,"Olio - The Wood Fired Pizzeria","Jawaharlal Nehru Road","Royal 4in1 Pizza","Royal 4in1 Gourmet Veg Pizza",1199.00,4,1,2025-05-26,623
+Karnataka,Bengaluru,KFC,Kengeri,"EPIC VALUE MEALS FOR 1-2 (UP TO 22% OFF)","Double Chicken Roll Combo",458.00,4,0,2025-04-27,624
+Karnataka,Bengaluru,"Olio - The Wood Fired Pizzeria","Jawaharlal Nehru Road",Dips,"Pizza Chilli Oil",30.00,4,1,2025-08-27,625
+Karnataka,Bengaluru,KFC,Kengeri,"EPIC VALUE MEALS FOR 1-2 (UP TO 22% OFF)","Classic Chicken Roll & Popcorn Meal",338.00,4,13,2025-05-14,626
+Karnataka,Bengaluru,KFC,Kengeri,Recommended,"Korean & Thai Roll Chicken Meal",569.00,5,9,2025-02-16,627
+Karnataka,Bengaluru,KFC,Kengeri,"EPIC VALUE MEALS FOR 1-2 (UP TO 22% OFF)","Rice & Chicken Popcorn Delight Meal",458.00,4,0,2025-02-27,628
+Karnataka,Bengaluru,KFC,Kengeri,Recommended,"Indian Tandoori Roll Chicken Meal",419.00,5,44,2025-01-09,629
+Karnataka,Bengaluru,KFC,Kengeri,"EPIC VALUE MEALS FOR 1-2 (UP TO 22% OFF)","Veg Rice & Patty Duo meal",458.00,3,1,2025-02-13,630
+Karnataka,Bengaluru,KFC,Kengeri,Recommended,"Korean Tangy Roll & Popcorn Chicken Meal",319.00,5,16,2025-02-16,631
+Karnataka,Bengaluru,KFC,Kengeri,"EPIC SAVINGS BUCKET FOR 3-4 (UP TO 32% OFF)","Ultimate Savings Chicken Bucket",749.00,4,129,2025-06-22,632
+Karnataka,Bengaluru,KFC,Kengeri,"EPIC SAVINGS BUCKET FOR 3-4 (UP TO 32% OFF)","All in One Chicken Bucket",579.00,4,26,2025-06-09,633
+Karnataka,Bengaluru,KFC,Kengeri,Recommended,"Thai Spicy Roll & Zinger Chicken Meal",419.00,5,17,2025-07-05,634
+Karnataka,Bengaluru,KFC,Kengeri,"EPIC SAVINGS BUCKET FOR 3-4 (UP TO 32% OFF)","Big 12 - Chicken Bucket",799.00,4,81,2025-06-22,635
+Karnataka,Bengaluru,KFC,Kengeri,Recommended,"American Roll & Popcorn Chicken Meal",299.00,4,13,2025-08-24,636
+Karnataka,Bengaluru,KFC,Kengeri,"EPIC SAVINGS BUCKET FOR 3-4 (UP TO 32% OFF)","Big 8 - Chicken Bucket",749.00,4,80,2025-02-16,637
+Karnataka,Bengaluru,KFC,Kengeri,Recommended,"Thai Spicy Roll & Popcorn Chicken Meal",319.00,4,8,2025-05-25,638
+Karnataka,Bengaluru,KFC,Kengeri,"RICE BOWLZ","Duo Popcorn Chicken Rice Bowl - Biryani Style",428.57,5,7,2025-02-16,639
+Karnataka,Bengaluru,KFC,Kengeri,Recommended,"Korean Tangy Roll & Zinger Chicken Meal",419.00,4,9,2025-08-18,640
+Karnataka,Bengaluru,KFC,Kengeri,"RICE BOWLZ","Popcorn Rice & Pepsi Bottle Combo",309.94,4,5,2025-05-29,641
+Karnataka,Bengaluru,KFC,Kengeri,Recommended,"Korean Tangy Chicken Roll",139.00,4,48,2025-01-07,642
+Karnataka,Bengaluru,KFC,Kengeri,"RICE BOWLZ","Classic Chicken Rice Bowl - Biryani Style",230.00,4,3,2025-02-16,643
+Karnataka,Bengaluru,KFC,Kengeri,Recommended,"Thai Spicy Chicken Roll",139.00,4,16,2025-06-23,644
+Karnataka,Bengaluru,"Olio - The Wood Fired Pizzeria","Jawaharlal Nehru Road",Recommended,"Fiery Jalapeno & Paprika Pizza",269.00,4,0,2025-06-11,645
+Karnataka,Bengaluru,KFC,Kengeri,Recommended,"Indian Tandoori Chicken Roll",139.00,4,56,2025-05-21,646
+Karnataka,Bengaluru,"Olio - The Wood Fired Pizzeria","Jawaharlal Nehru Road",Recommended,"Creamy Spinach Popeye Pizza",349.00,5,13,2025-04-25,647
+Karnataka,Bengaluru,KFC,Kengeri,Recommended,"Indian Spicy Veg Roll",139.00,4,34,2025-06-17,648
+Karnataka,Bengaluru,"Olio - The Wood Fired Pizzeria","Jawaharlal Nehru Road",Recommended,"Mexican Wave Pizza",299.00,4,72,2025-04-15,649
+Karnataka,Bengaluru,KFC,Kengeri,Recommended,"Classic Chicken Roll",139.00,5,85,2025-06-19,650
+Karnataka,Bengaluru,"Olio - The Wood Fired Pizzeria","Jawaharlal Nehru Road",Recommended,"Ultimate Spinach Pizza",299.00,4,23,2025-05-15,651
+Karnataka,Bengaluru,"Olio - The Wood Fired Pizzeria","Jawaharlal Nehru Road",Recommended,"Peppy Paneer Pizza",329.00,4,0,2025-07-15,652
+Karnataka,Bengaluru,KFC,Kengeri,Recommended,"Double Chicken Roll",169.00,4,69,2025-05-17,653
+Karnataka,Bengaluru,"Olio - The Wood Fired Pizzeria","Jawaharlal Nehru Road",Recommended,"Paneer Red-Hot Pizza",349.00,4,15,2025-02-27,654
+Karnataka,Bengaluru,KFC,Kengeri,Recommended,"Gold Edition - Chicken Zinger Burger & Fries",329.00,4,31,2025-06-27,655
+Karnataka,Bengaluru,"Olio - The Wood Fired Pizzeria","Jawaharlal Nehru Road",Recommended,"Farmhouse Pizza",339.00,4,53,2025-04-24,656
+Karnataka,Bengaluru,KFC,Kengeri,Recommended,"Gold Edition - Veg Zinger Burger",239.00,4,8,2025-01-27,657
+Karnataka,Bengaluru,"Olio - The Wood Fired Pizzeria","Jawaharlal Nehru Road",Recommended,"Five Pepper Pizza",339.00,4,27,2025-08-25,658
+Karnataka,Bengaluru,KFC,Kengeri,Recommended,"Chatpata Chana Veg Burger - 2 pc",299.00,5,6,2025-05-02,659
+Karnataka,Bengaluru,KFC,Kengeri,"RICE BOWLZ","Smoky Red Chicken Rice Bowl - Biryani Style",230.00,4,4,2025-04-28,660
+Karnataka,Bengaluru,"Olio - The Wood Fired Pizzeria","Jawaharlal Nehru Road",Recommended,"Farmer's Pick Pizza",349.00,4,12,2025-02-16,661
+Karnataka,Bengaluru,KFC,Kengeri,Recommended,"2 x Chatpata Chana Veg Burger & Fries combo",269.00,4,1,2025-07-13,662
+Karnataka,Bengaluru,KFC,Kengeri,"RICE BOWLZ","Popcorn Chicken Rice Bowl - Biryani Style",230.00,5,12,2025-08-01,663
+Karnataka,Bengaluru,"Olio - The Wood Fired Pizzeria","Jawaharlal Nehru Road",Recommended,"Smoked Hawaiian Pizza",349.00,4,17,2025-06-06,664
+Karnataka,Bengaluru,KFC,Kengeri,"RICE BOWLZ","Veg Rice Bowl - Biryani Style",199.00,4,7,2025-07-22,665
+Karnataka,Bengaluru,KFC,Kengeri,Recommended,"2 x Chatpata Chana Veg Burger Meal",309.00,4,0,2025-01-05,666
+Karnataka,Bengaluru,KFC,Kengeri,"RICE BOWLZ","Popcorn Chicken Rice Bowlz & Wings Meal",699.05,5,7,2025-08-17,667
+Karnataka,Bengaluru,"Olio - The Wood Fired Pizzeria","Jawaharlal Nehru Road",Recommended,"Veggie Volcano Pizza",349.00,5,11,2025-04-30,668
+Karnataka,Bengaluru,KFC,Kengeri,Recommended,"Spicy Zinger Burger and Popcorn Meal",449.00,5,15,2025-01-29,669
+Karnataka,Bengaluru,"Olio - The Wood Fired Pizzeria","Jawaharlal Nehru Road",Recommended,"Four Seasons Pizza",379.00,5,6,2025-06-13,670
+Karnataka,Bengaluru,KFC,Kengeri,Recommended,"Spicy Zinger Burger",229.00,5,150,2025-06-14,671
+Karnataka,Bengaluru,"Olio - The Wood Fired Pizzeria","Jawaharlal Nehru Road",Recommended,"Greek Goddess Pizza",379.00,5,44,2025-08-05,672
+Karnataka,Bengaluru,KFC,Kengeri,ROLLS,"Korean & Thai Roll Chicken Meal",569.00,5,9,2025-06-15,673
+Karnataka,Bengaluru,"Olio - The Wood Fired Pizzeria","Jawaharlal Nehru Road",Recommended,"Mediterranean Pizza",369.00,4,49,2025-01-21,674
+Karnataka,Bengaluru,KFC,Kengeri,ROLLS,"Indian Tandoori Roll Chicken Meal",419.00,5,44,2025-02-16,675
+Karnataka,Bengaluru,"Olio - The Wood Fired Pizzeria","Jawaharlal Nehru Road","Oh-so-Cheesy (New Launch)","8-Cheese Pizza",339.00,4,0,2025-06-13,676
+Karnataka,Bengaluru,KFC,Kengeri,ROLLS,"Korean Tangy Roll & Popcorn Chicken Meal",319.00,5,16,2025-05-16,677
+Karnataka,Bengaluru,"Olio - The Wood Fired Pizzeria","Jawaharlal Nehru Road","Oh-so-Cheesy (New Launch)","8-Cheese Forest Chicken Pizza",419.00,4,0,2025-05-18,678
+Karnataka,Bengaluru,KFC,Kengeri,ROLLS,"Thai Spicy Roll & Zinger Chicken Meal",419.00,5,17,2025-08-28,679
+Karnataka,Bengaluru,"Olio - The Wood Fired Pizzeria","Jawaharlal Nehru Road","Oh-so-Cheesy (New Launch)","8-Cheese Spinach Mushroom Pizza",399.00,4,0,2025-04-11,680
+Karnataka,Bengaluru,KFC,Kengeri,ROLLS,"American Roll & Popcorn Chicken Meal",299.00,4,13,2025-04-19,681
+Karnataka,Bengaluru,KFC,Kengeri,ROLLS,"Thai Spicy Roll & Popcorn Chicken Meal",319.00,4,8,2025-02-16,682
+Karnataka,Bengaluru,KFC,Kengeri,ROLLS,"Korean Tangy Roll & Zinger Chicken Meal",419.00,4,9,2025-02-16,683
+Karnataka,Bengaluru,"Olio - The Wood Fired Pizzeria","Jawaharlal Nehru Road","Oh-so-Cheesy (New Launch)","Four Cheese Forest Chicken Pizza",399.00,4,0,2025-07-20,684
+Karnataka,Bengaluru,KFC,Kengeri,ROLLS,"Korean Tangy Chicken Roll",139.00,4,48,2025-05-25,685
+Karnataka,Bengaluru,KFC,Kengeri,ROLLS,"Thai Spicy Chicken Roll",139.00,4,16,2025-02-16,686
+Karnataka,Bengaluru,"Olio - The Wood Fired Pizzeria","Jawaharlal Nehru Road","Oh-so-Cheesy (New Launch)","Four Cheese Pizza",299.00,4,0,2025-06-01,687
+Karnataka,Bengaluru,"Olio - The Wood Fired Pizzeria","Jawaharlal Nehru Road","Oh-so-Cheesy (New Launch)","Four Cheese Spinach Mushroom Pizza",379.00,4,0,2025-07-11,688
+Karnataka,Bengaluru,"Olio - The Wood Fired Pizzeria","Jawaharlal Nehru Road","Stuffed Garlic Breads","Garlic Breadsticks",159.00,4,2,2025-08-15,689
+Karnataka,Bengaluru,"Olio - The Wood Fired Pizzeria","Jawaharlal Nehru Road","Stuffed Garlic Breads","Classic Stuffed Garlic Bread",219.00,5,4,2025-06-26,690
+Karnataka,Bengaluru,KFC,Kengeri,ROLLS,"Indian Tandoori Chicken Roll",139.00,4,56,2025-08-05,691
+Karnataka,Bengaluru,"Olio - The Wood Fired Pizzeria","Jawaharlal Nehru Road","Stuffed Garlic Breads","Corn And Cheese Stuffed Garlic Bread",249.00,2,3,2025-04-09,692
+Karnataka,Bengaluru,KFC,Kengeri,ROLLS,"Indian Spicy Veg Roll",139.00,4,34,2025-02-14,693
+Karnataka,Bengaluru,KFC,Kengeri,"RICE BOWLZ","Plain Rice Bowlz",139.00,5,13,2025-06-13,694
+Karnataka,Bengaluru,KFC,Kengeri,"HOT & CRISPY CHICKEN & WINGS","Hot & Crispy Chicken - 8 pcs",799.05,3,39,2025-08-15,695
+Karnataka,Bengaluru,KFC,Kengeri,"HOT & CRISPY CHICKEN & WINGS","Hot & Crispy Chicken - 6 pcs",639.00,3,73,2025-05-27,696
+Karnataka,Bengaluru,KFC,Kengeri,ROLLS,"Classic Chicken Roll",139.00,5,85,2025-05-12,697
+Karnataka,Bengaluru,"Olio - The Wood Fired Pizzeria","Jawaharlal Nehru Road","Stuffed Garlic Breads","Paneer Tikka Stuffed Garlic Bread",279.00,4,0,2025-08-28,698
+Karnataka,Bengaluru,KFC,Kengeri,"HOT & CRISPY CHICKEN & WINGS","Hot & Crispy Chicken - 4 pcs",449.00,4,119,2025-01-20,699
+Karnataka,Bengaluru,KFC,Kengeri,ROLLS,"Double Chicken Roll",169.00,4,69,2025-02-05,700
+Karnataka,Bengaluru,KFC,Kengeri,"HOT & CRISPY CHICKEN & WINGS","Hot & Crispy Chicken- 2 pcs",230.00,4,259,2025-07-04,701
+Karnataka,Bengaluru,"Olio - The Wood Fired Pizzeria","Jawaharlal Nehru Road","Pepperoni Pizza - Chef's Special","Chicken Pepperoni Pizza",379.00,4,25,2025-02-05,702
+Karnataka,Bengaluru,KFC,Kengeri,"HOT & CRISPY CHICKEN & WINGS","Hot Chicken Wings - 4 pcs",185.00,4,793,2025-05-26,703
+Karnataka,Bengaluru,KFC,Kengeri,BURGERS,"Gold Edition - Chicken Zinger Burger & Fries",329.00,4,31,2025-02-16,704
+Karnataka,Bengaluru,"Olio - The Wood Fired Pizzeria","Jawaharlal Nehru Road","Pepperoni Pizza - Chef's Special","Pork Pepperoni Pizza",379.00,4,2,2025-07-29,705
+Karnataka,Bengaluru,KFC,Kengeri,"HOT & CRISPY CHICKEN & WINGS","Hot & Crispy Chicken - 1 pc",119.00,4,190,2025-02-16,706
+Karnataka,Bengaluru,KFC,Kengeri,BURGERS,"Gold Edition - Veg Zinger Burger",239.00,4,8,2025-06-08,707
+Karnataka,Bengaluru,KFC,Kengeri,"BONELESS CHICKEN POPCORN","Chicken Popcorn - Large",249.00,4,493,2025-08-21,708
+Karnataka,Bengaluru,"Olio - The Wood Fired Pizzeria","Jawaharlal Nehru Road","Pepperoni Pizza - Chef's Special","Spicy Chicken Pepperoni Pizza",379.00,5,6,2025-08-29,709
+Karnataka,Bengaluru,KFC,Kengeri,"BONELESS CHICKEN POPCORN","Chicken Popcorn - Medium",199.00,4,818,2025-02-18,710
+Karnataka,Bengaluru,"Olio - The Wood Fired Pizzeria","Jawaharlal Nehru Road","Pepperoni Pizza - Chef's Special","Pepperoni Bacon Pie Pizza",379.00,4,22,2025-08-19,711
+Karnataka,Bengaluru,KFC,Kengeri,"BONELESS CHICKEN POPCORN","2 x Medium Chicken Popcorn",399.00,4,36,2025-01-14,712
+Karnataka,Bengaluru,"Olio - The Wood Fired Pizzeria","Jawaharlal Nehru Road","Loaded Nachos","Non-Veg Loaded Nachos",249.00,4,0,2025-04-06,713
+Karnataka,Bengaluru,KFC,Kengeri,"BONELESS CHICKEN POPCORN","Chicken Popcorn - Regular",125.00,4,359,2025-05-23,714
+Karnataka,Bengaluru,KFC,Kengeri,BURGERS,"Chatpata Chana Veg Burger - 2 pc",299.00,5,6,2025-01-19,715
+Karnataka,Bengaluru,KFC,Kengeri,"GRILLED SMOKY RED CHICKEN","5 Pc Smoky Chicken Mojito Combo",628.00,4,0,2025-06-08,716
+Karnataka,Bengaluru,KFC,Kengeri,BURGERS,"2 x Chatpata Chana Veg Burger & Fries combo",269.00,4,1,2025-07-08,717
+Karnataka,Bengaluru,KFC,Kengeri,"GRILLED SMOKY RED CHICKEN","Smoky Red Grilled Chicken - 5 pc",549.00,5,62,2025-01-01,718
+Karnataka,Bengaluru,KFC,Kengeri,BURGERS,"2 x Chatpata Chana Veg Burger Meal",309.00,4,0,2025-04-18,719
+Karnataka,Bengaluru,KFC,Kengeri,"GRILLED SMOKY RED CHICKEN","Smoky Red Grilled Chicken - 2 pc",249.00,4,113,2025-04-27,720
+Karnataka,Bengaluru,KFC,Kengeri,BURGERS,"Spicy Zinger Burger and Popcorn Meal",449.00,5,15,2025-07-01,721
+Karnataka,Bengaluru,KFC,Kengeri,"GRILLED SMOKY RED CHICKEN","Smoky Red Grilled Chicken - 1 pc",124.76,4,69,2025-02-23,722
+Karnataka,Bengaluru,KFC,Kengeri,"FLAT 179 SPECIAL MEALS/BUCKET","Classic Zinger Burger",209.00,4,71,2025-04-28,723
+Karnataka,Bengaluru,KFC,Kengeri,"FLAT 179 SPECIAL MEALS/BUCKET","Zinger Burger - Veg",199.00,5,9,2025-01-03,724
+Karnataka,Bengaluru,KFC,Kengeri,"FLAT 179 SPECIAL MEALS/BUCKET","Tandoori Zinger Burger",208.57,4,59,2025-05-24,725
+Karnataka,Bengaluru,KFC,Kengeri,"FLAT 179 SPECIAL MEALS/BUCKET","4 Pc Hot Wings & Medium Fries",278.10,4,51,2025-08-03,726
+Karnataka,Bengaluru,KFC,Kengeri,"FLAT 179 SPECIAL MEALS/BUCKET","4 Pc Hot Wings & Regular Popcorn",294.29,4,170,2025-07-04,727
+Karnataka,Bengaluru,KFC,Kengeri,"FLAT 179 SPECIAL MEALS/BUCKET","2 Veg Patty & Medium Fries",254.29,4,11,2025-07-22,728
+Karnataka,Bengaluru,KFC,Kengeri,"FLAT 179 SPECIAL MEALS/BUCKET","1 Regular Popcorn & Medium Fries",214.29,4,17,2025-01-12,729
+Karnataka,Bengaluru,KFC,Kengeri,"FLAT 179 SPECIAL MEALS/BUCKET","1 Hot & Crispy with Regular Popcorn",230.48,4,9,2025-02-16,730
+Karnataka,Bengaluru,KFC,Kengeri,"FLAT 179 SPECIAL MEALS/BUCKET","1 Hot & Crispy with Medium Fries",214.29,5,5,2025-08-12,731
+Karnataka,Bengaluru,KFC,Kengeri,"FLAT 179 SPECIAL MEALS/BUCKET","2 pc Hot & Crispy Chicken",229.52,4,50,2025-01-16,732
+Karnataka,Bengaluru,"Olio - The Wood Fired Pizzeria","Jawaharlal Nehru Road","Loaded Nachos","Veg Loaded Nachos",239.00,4,0,2025-06-01,733
+Karnataka,Bengaluru,KFC,Kengeri,"FLAT 179 SPECIAL MEALS/BUCKET","Large Chicken Popcorn",248.57,4,31,2025-07-19,734
+Karnataka,Bengaluru,KFC,Kengeri,"FLAT 179 SPECIAL MEALS/BUCKET","2 Pcs Smoky Red Chicken",248.57,4,23,2025-04-12,735
+Karnataka,Bengaluru,"Olio - The Wood Fired Pizzeria","Jawaharlal Nehru Road","Cheesy Pizza Mania Box","Cheesy Mania Corn Pizza Box",219.00,3,3,2025-05-31,736
+Karnataka,Bengaluru,KFC,Kengeri,"FLAT 179 SPECIAL MEALS/BUCKET","Rice Bowlz - Classic Chicken",229.52,5,4,2025-07-23,737
+Karnataka,Bengaluru,"Olio - The Wood Fired Pizzeria","Jawaharlal Nehru Road","Cheesy Pizza Mania Box","Cheesy Mania Herbed Chicken Pizza Box",249.00,5,9,2025-07-09,738
+Karnataka,Bengaluru,KFC,Kengeri,"FLAT 179 SPECIAL MEALS/BUCKET","Rice Bowlz- Smoky Red Chicken",229.52,4,4,2025-06-01,739
+Karnataka,Bengaluru,KFC,Kengeri,"FLAT 179 SPECIAL MEALS/BUCKET","Rice Bowlz - Popcorn Chicken",229.52,4,21,2025-06-05,740
+Karnataka,Bengaluru,"Olio - The Wood Fired Pizzeria","Jawaharlal Nehru Road","Cheesy Pizza Mania Box","Cheesy Mania Peri Peri Paneer Pizza Box",239.00,4,7,2025-08-12,741
+Karnataka,Bengaluru,KFC,Kengeri,"FLAT 179 SPECIAL MEALS/BUCKET","Rice Bowlz - Veg",199.05,5,7,2025-04-27,742
+Karnataka,Bengaluru,KFC,Kengeri,"SIDES AND DIPS","Gold Edition - Regular Fries",149.00,5,4,2025-01-08,743
+Karnataka,Bengaluru,"Olio - The Wood Fired Pizzeria","Jawaharlal Nehru Road","Cheesy Pizza Mania Box","Chessy Mania Margherita Pizza Box",229.00,4,1,2025-02-06,744
+Karnataka,Bengaluru,KFC,Kengeri,"SIDES AND DIPS","Peri Peri Chicken Strips - 3 pc",179.00,4,175,2025-05-02,745
+Karnataka,Bengaluru,"Olio - The Wood Fired Pizzeria","Jawaharlal Nehru Road","Guiltfree By Eatfit!","Deluxe Veggie Pizza [Multigrain]",289.00,4,4,2025-01-12,746
+Karnataka,Bengaluru,KFC,Kengeri,"SIDES AND DIPS","Peri Peri Chicken Leg Piece - 1 pc",115.00,2,4,2025-04-02,747
+Karnataka,Bengaluru,KFC,Kengeri,"SIDES AND DIPS","2 pc Veg Patty",155.00,5,112,2025-06-13,748
+Karnataka,Bengaluru,KFC,Kengeri,"SIDES AND DIPS","French Fries - Large",139.00,4,583,2025-02-16,749
+Karnataka,Bengaluru,KFC,Kengeri,"SIDES AND DIPS","French Fries - Medium",99.00,4,291,2025-05-16,750
+Karnataka,Bengaluru,KFC,Kengeri,"SIDES AND DIPS","Pack of 4 Dips",109.52,4,41,2025-07-05,751
+Karnataka,Bengaluru,"Olio - The Wood Fired Pizzeria","Jawaharlal Nehru Road","Guiltfree By Eatfit!","Paneer Red Hot Pizza [Multigrain]",349.00,5,4,2025-04-23,752
+Karnataka,Bengaluru,KFC,Kengeri,"SIDES AND DIPS","Pack of 2 Dips",57.14,5,90,2025-02-16,753
+Karnataka,Bengaluru,KFC,Kengeri,"SIDES AND DIPS","Tandoori Flavour Dip - 20 gm",28.57,5,39,2025-06-27,754
+Karnataka,Bengaluru,"Olio - The Wood Fired Pizzeria","Jawaharlal Nehru Road","Guiltfree By Eatfit!","Farmhouse Pizza [Multigrain]",349.00,4,5,2025-07-02,755
+Karnataka,Bengaluru,"Olio - The Wood Fired Pizzeria","Jawaharlal Nehru Road","Guiltfree By Eatfit!","Fiery Chicken Pizza [Multigrain]",379.00,4,0,2025-01-13,756
+Karnataka,Bengaluru,"Olio - The Wood Fired Pizzeria","Jawaharlal Nehru Road","Guiltfree By Eatfit!","Cheddar Chicken Tikka Pizza [Multigrain]",379.00,4,1,2025-01-23,757
+Karnataka,Bengaluru,"Olio - The Wood Fired Pizzeria","Jawaharlal Nehru Road","Guiltfree By Eatfit!","Chicken Kingdom Pizza [Multigrain]",429.00,4,1,2025-08-05,758
+Karnataka,Bengaluru,"Olio - The Wood Fired Pizzeria","Jawaharlal Nehru Road","Guiltfree By Eatfit!","Chicken Pepperoni Pizza [Multigrain]",389.00,4,2,2025-04-09,759
+Karnataka,Bengaluru,KFC,Kengeri,BURGERS,"Spicy Zinger Burger",229.00,5,150,2025-06-16,760
+Karnataka,Bengaluru,KFC,Kengeri,BURGERS,"Zinger Pro Burger & Popcorn Meal",469.00,5,10,2025-04-01,761
+Karnataka,Bengaluru,KFC,Kengeri,BURGERS,"Zinger Pro Burger",249.00,4,77,2025-07-21,762
+Karnataka,Bengaluru,KFC,Kengeri,BURGERS,"Chicken Burger Buddy Meal",549.00,4,101,2025-02-16,763
+Karnataka,Bengaluru,KFC,Kengeri,BURGERS,"Mixed Chicken Zinger Burger Doubles",368.57,5,283,2025-01-19,764
+Karnataka,Bengaluru,KFC,Kengeri,BURGERS,"Classic Zinger Mojito Combo",308.00,4,1,2025-02-08,765
+Karnataka,Bengaluru,KFC,Kengeri,BURGERS,"Chicken Zinger Burger - Classic with Cheese",234.00,5,19,2025-05-06,766
+Karnataka,Bengaluru,KFC,Kengeri,BURGERS,"Chicken Zinger Burger - Tandoori with Cheese",244.00,5,14,2025-07-14,767
+Karnataka,Bengaluru,KFC,Kengeri,BURGERS,"Paneer Zinger Burger",219.00,4,38,2025-06-22,768
+Karnataka,Bengaluru,KFC,Kengeri,BURGERS,"Veg Zinger Burger with Cheese",224.00,4,24,2025-05-21,769
+Karnataka,Bengaluru,"Olio - The Wood Fired Pizzeria","Jawaharlal Nehru Road","Cheese Burst Pizza","Cheeseburst - Chicken Kingdom Pizza",549.00,5,4,2025-04-15,770
+Karnataka,Bengaluru,KFC,Kengeri,BURGERS,"Chicken Zinger Burger - Classic",209.00,5,712,2025-08-30,771
+Karnataka,Bengaluru,KFC,Kengeri,BURGERS,"Chicken Longer Burger & 2 Strips Combo",229.00,4,80,2025-08-08,772
+Karnataka,Bengaluru,KFC,Kengeri,BURGERS,"Veg Longer Burger - 2pc",279.00,4,2,2025-05-06,773
+Karnataka,Bengaluru,KFC,Kengeri,BURGERS,"Chicken Zinger Burger - Tandoori",219.00,5,393,2025-02-27,774
+Karnataka,Bengaluru,"Olio - The Wood Fired Pizzeria","Jawaharlal Nehru Road","Cheese Burst Pizza","Cheeseburst - Farmhouse Pizza",439.00,5,5,2025-01-30,775
+Karnataka,Bengaluru,"Olio - The Wood Fired Pizzeria","Jawaharlal Nehru Road","Cheese Burst Pizza","Cheeseburst - Spicy Chicken Treat Pizza",449.00,4,2,2025-01-17,776
+Karnataka,Bengaluru,"Olio - The Wood Fired Pizzeria","Jawaharlal Nehru Road","Cheese Burst Pizza","Cheeseburst - Veg Overload Pizza",449.00,4,7,2025-04-23,777
+Karnataka,Bengaluru,"Olio - The Wood Fired Pizzeria","Jawaharlal Nehru Road","Kids Special - Pizza Party","Kids Birthday Pizza Party with Chocolate Cake (pack of 10)",3499.00,4,0,2025-02-16,778
+Karnataka,Bengaluru,"Olio - The Wood Fired Pizzeria","Jawaharlal Nehru Road","Kids Special - Pizza Party","Kids Birthday Pizza Party with Chocolate Cake (pack of 5)",1999.00,4,0,2025-02-16,779
+Karnataka,Bengaluru,"Olio - The Wood Fired Pizzeria","Jawaharlal Nehru Road","Kids Special - Pizza Party","Motu Patlu Kids Cheesy Corn Pizza Party",339.00,4,0,2025-04-22,780
+Karnataka,Bengaluru,KFC,Kengeri,BURGERS,"2 Classic Chicken Krisper Burgers",299.00,4,16,2025-05-28,781
+Karnataka,Bengaluru,"Olio - The Wood Fired Pizzeria","Jawaharlal Nehru Road","Kids Special - Pizza Party","Motu Patlu Kids Herbed Chicken Pizza Party",379.00,4,0,2025-08-05,782
+Karnataka,Bengaluru,KFC,Kengeri,BURGERS,"Veg Krisper Burgers - 2pc",239.00,4,12,2025-08-08,783
+Karnataka,Bengaluru,KFC,Kengeri,"ALL DAY LUNCH SPECIAL MEAL BOX (SAVE RS 115)","All Chicken Box",399.00,4,57,2025-07-19,784
+Karnataka,Bengaluru,KFC,Kengeri,"ALL DAY LUNCH SPECIAL MEAL BOX (SAVE RS 115)","Classic Zinger Box",399.00,4,47,2025-02-16,785
+Karnataka,Bengaluru,KFC,Kengeri,"ALL DAY LUNCH SPECIAL MEAL BOX (SAVE RS 115)","Rice Box Meal",399.00,4,30,2025-05-07,786
+Karnataka,Bengaluru,KFC,Kengeri,"ALL DAY LUNCH SPECIAL MEAL BOX (SAVE RS 115)","Roll Meal Box",399.00,4,9,2025-04-15,787
+Karnataka,Bengaluru,"Olio - The Wood Fired Pizzeria","Jawaharlal Nehru Road","Kids Special - Pizza Party","Motu Patlu Kids Margherita Pizza Party",329.00,4,0,2025-02-16,788
+Karnataka,Bengaluru,"Olio - The Wood Fired Pizzeria","Jawaharlal Nehru Road","Kids Special - Pizza Party","Motu Patlu Kids Peri Peri Paneer Pizza Party",369.00,4,0,2025-05-21,789
+Karnataka,Bengaluru,"Olio - The Wood Fired Pizzeria","Jawaharlal Nehru Road","Kids Special - Pizza Party","Motu Patlu Kids Pizza Big Party Combo (Pack of 10)",2999.00,4,0,2025-07-06,790
+Karnataka,Bengaluru,"Olio - The Wood Fired Pizzeria","Jawaharlal Nehru Road","Kids Special - Pizza Party","Motu Patlu Kids Pizza Mini Party Combo (Pack of 5)",1499.00,4,0,2025-01-19,791
+Karnataka,Bengaluru,KFC,Kengeri,"ALL DAY LUNCH SPECIAL MEAL BOX (SAVE RS 115)","Veg Box Meal",399.00,5,21,2025-06-16,792
+Karnataka,Bengaluru,KFC,Kengeri,"PERI PERI CHICKEN STRIPS & LEG PC (UP TO 25% OFF)","Peri Peri Chicken 5 Leg Piece Meal",659.00,4,2,2025-01-01,793
+Karnataka,Bengaluru,"Olio - The Wood Fired Pizzeria","Jawaharlal Nehru Road","House Special Garlic Breads!","Italian Cheese Garlic Bread",249.00,4,36,2025-06-26,794
+Karnataka,Bengaluru,KFC,Kengeri,"PERI PERI CHICKEN STRIPS & LEG PC (UP TO 25% OFF)","Peri Peri 10 Pc Chicken Strips & 2 Dips",529.00,4,42,2025-05-11,795
+Karnataka,Bengaluru,"Olio - The Wood Fired Pizzeria","Jawaharlal Nehru Road","House Special Garlic Breads!","Italian Chicken Pepperoni Cheese Garlic Bread",259.00,2,3,2025-04-10,796
+Karnataka,Bengaluru,KFC,Kengeri,"PERI PERI CHICKEN STRIPS & LEG PC (UP TO 25% OFF)","Peri Peri Chicken 5 Leg Piece Bucket",625.00,4,71,2025-07-24,797
+Karnataka,Bengaluru,KFC,Kengeri,"PERI PERI CHICKEN STRIPS & LEG PC (UP TO 25% OFF)","Peri Peri Chicken Strips - 6 Pc",319.00,4,118,2025-04-02,798
+Karnataka,Bengaluru,KFC,Kengeri,"EPIC VALUE MEALS FOR 1-2 (UP TO 22% OFF)","Chicken Bucket for Two",599.05,4,68,2025-07-09,799
+Karnataka,Bengaluru,"Olio - The Wood Fired Pizzeria","Jawaharlal Nehru Road","House Special Garlic Breads!","Italian Pork Pepperoni Cheese Garlic Bread",259.00,3,7,2025-05-20,800
+Karnataka,Bengaluru,"Olio - The Wood Fired Pizzeria","Jawaharlal Nehru Road","House Special Garlic Breads!","Bacon Cheese Garlic Bread",269.00,4,10,2025-07-08,801
+Karnataka,Bengaluru,"Olio - The Wood Fired Pizzeria","Jawaharlal Nehru Road","House Special Garlic Breads!","Hawaiian Pineapple Garlic Bread",239.00,4,38,2025-08-21,802
+Karnataka,Bengaluru,KFC,Kengeri,"EPIC VALUE MEALS FOR 1-2 (UP TO 22% OFF)","Chicken Mingles Bucket Meal",529.00,4,113,2025-07-10,803
+Karnataka,Bengaluru,KFC,Kengeri,"EPIC VALUE MEALS FOR 1-2 (UP TO 22% OFF)","Chicken Mingles Bucket",399.05,4,265,2025-04-23,804
+Karnataka,Bengaluru,KFC,Kengeri,"EPIC VALUE MEALS FOR 1-2 (UP TO 22% OFF)","Chicken & French Fries Bucket",299.04,4,81,2025-06-02,805
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,"Gift Hampers","Hm Butterfly 5 Jar Hamper",1741.07,4,0,2025-07-28,806
+Karnataka,Bengaluru,KFC,Kengeri,"EPIC VALUE MEALS FOR 1-2 (UP TO 22% OFF)","2 X Veg Krispers Burger Meal",299.05,4,122,2025-02-25,807
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,"Gift Hampers","Signature 4jar Df Box - 950g",1763.39,4,0,2025-07-16,808
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,"Gift Hampers","Luxury 3 In 1 Roasted Dry Fruit Box",1232.14,4,0,2025-04-05,809
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,"Gift Hampers","Luxury Mandala 2jar & Sweet Box",758.92,4,0,2025-05-13,810
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,Namkeen,"Shimla Mixture",111.43,5,14,2025-01-12,811
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,"Gift Hampers","Deluxe Dry Fruit 4jar 600gms",1160.71,4,0,2025-04-12,812
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,"Gift Hampers","Mini Gift Basket",694.91,5,1,2025-01-03,813
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,Namkeen,"Kaju Pakoda",107.62,5,48,2025-02-16,814
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,"Gift Hampers","Hm Lotus 2 Jar Sweet 4 Tealight Box",758.92,4,0,2025-06-30,815
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,Namkeen,Groundnut,93.33,4,28,2025-02-15,816
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,"Luxe Candles","Deluxe Candle",294.64,4,0,2025-01-23,817
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,"Luxe Candles","Votive Single Glass Candle",53.57,4,1,2025-08-17,818
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,Namkeen,"Mini Samosa",86.67,5,207,2025-02-03,819
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,"Luxe Candles","Eaching Bowl Candle",401.79,4,0,2025-02-22,820
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,Namkeen,"Fry Badam Salt",278.57,5,4,2025-06-26,821
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,"Luxe Candles","Tea Light Candle Combo",89.28,4,0,2025-06-14,822
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,Namkeen,"Onion Pakoda",160.00,4,22,2025-02-16,823
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,"Assorted Sweets","Ghee And Khova Assorted Sweets",204.76,5,170,2025-07-21,824
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,Namkeen,"Roasted Nutty Trail Mix Tin 150 Gms",267.86,5,1,2025-08-06,825
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,"Assorted Sweets","Special Kaju Assorted Sweets",370.48,5,100,2025-07-21,826
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,Namkeen,"Roasted Salted Almond Tin 150 Gms",276.79,4,0,2025-02-14,827
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,"Assorted Sweets","Kaju Assorted Sweets",244.76,4,0,2025-02-16,828
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,Namkeen,"Roasted Salted Cashew Tin 150 Gms",294.64,4,0,2025-06-04,829
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,"Assorted Sweets","Special Ghee & Khova Mix Sweets",230.47,4,3,2025-05-25,830
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,Namkeen,"Family Mixture",155.24,5,12,2025-02-16,831
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,Sweets,Chandrakala,204.76,4,25,2025-02-16,832
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,Namkeen,"Pudina Chow Chow",155.24,4,0,2025-01-26,833
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,Sweets,"Malai Gulla",81.90,5,93,2025-02-16,834
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,Sticks,"Only Cashew (200 Gms)",211.86,4,3,2025-02-16,835
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,Sweets,"Fry Kaju Roll",221.90,5,31,2025-07-20,836
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,Sticks,"Choco Sticks (200 Gms)",203.39,5,7,2025-05-01,837
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,Sweets,"Coconut Holige",35.24,5,71,2025-04-20,838
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,Sticks,"Pista Sticks (200 Gms)",220.34,5,8,2025-08-02,839
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,Sweets,"Dal Holige",35.24,5,27,2025-01-01,840
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,Sticks,"Badam Sticks (200 Gms)",203.39,4,23,2025-08-27,841
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,Sweets,"Puran Puri",122.86,5,40,2025-02-20,842
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,"Cookies And Biscuits","Coconut Biscuits (250 Gms)",144.07,5,21,2025-02-25,843
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,Sweets,"Khajur Burfee",244.76,4,0,2025-06-22,844
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,"Cookies And Biscuits","Jam Biscuits (250 Gms)",144.07,5,9,2025-04-04,845
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,Sweets,"Dry Fruit Ladoo",230.48,5,4,2025-07-24,846
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,"Cookies And Biscuits","Ragi Biscuits (250 Gms)",144.07,5,19,2025-04-17,847
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,Sweets,"Fry Kaju (Salt)",464.29,5,10,2025-01-04,848
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,"Cookies And Biscuits","Dry Fruit Coconut Biscuits (250 Gms)",203.39,5,15,2025-02-16,849
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,"Cookies And Biscuits","Almond Biscuits (250 Gms)",203.39,5,16,2025-02-17,850
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,Sweets,"Fry Kaju Masala",464.29,5,7,2025-07-09,851
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,"Cookies And Biscuits","Chocolate Biscuits (250 Gms)",144.07,5,11,2025-02-16,852
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,Sweets,"Fry Badam (Salt)",464.29,4,0,2025-07-12,853
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,"Cookies And Biscuits","Ajwain Biscuits (250 Gms)",144.07,5,9,2025-02-16,854
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,Sweets,"Kaju Pine",146.67,5,335,2025-04-23,855
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,"Cookies And Biscuits","Masala Biscuits (250 Gms)",144.07,4,9,2025-01-26,856
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,Sweets,"Anjeer Dry Fruit Roll",221.90,5,53,2025-08-20,857
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,"Cookies And Biscuits","Dry Fruit Biscuits (250 Gms)",203.39,5,12,2025-02-05,858
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,Sweets,"Kaju Square",146.67,5,75,2025-02-01,859
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,Sweets,"Kaju Anjeer Sandwich",146.67,5,61,2025-02-03,860
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,"Cookies And Biscuits","Pista Biscuits (250 Gms)",203.39,5,4,2025-01-01,861
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,Sweets,"Chocolate Burfi",122.86,5,21,2025-04-02,862
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,"Cookies And Biscuits","Jeera Biscuits (250 Gms)",144.07,5,10,2025-01-08,863
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,Sweets,"Rose Dry Fruit Laddu",221.90,4,48,2025-04-05,864
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,"Cookies And Biscuits","Fruit Biscuits (250 Gms)",144.07,5,3,2025-04-23,865
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,Sweets,"Kaju Laddu",221.90,4,20,2025-02-16,866
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,Packed,"Kaju Pista Badam Chikki (1 Pc)",51.43,4,2,2025-04-09,867
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,Sweets,Balushahi,122.86,4,168,2025-02-08,868
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,Packed,"Gulab Chikki (1 Pc)",21.90,5,4,2025-06-29,869
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,Sweets,"Banaras Soan Papdi",122.86,5,143,2025-06-03,870
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,Packed,"Groundnut Chikki",21.90,3,12,2025-07-26,871
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,Packed,"Soan Papdi",128.57,5,46,2025-02-16,872
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,Sweets,"Dry Fruit Laddu",138.10,5,156,2025-06-11,873
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,Packed,"Dry Fruit Bites",190.48,4,0,2025-05-07,874
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,Sweets,"Doodh Burfi",122.86,5,22,2025-07-01,875
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,Packed,"Premium Bites 9pcs",314.29,4,0,2025-02-25,876
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,Sweets,"Doodh Peda",122.86,4,89,2025-04-28,877
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,Packed,"Krakle Delight 6pcs",209.52,4,0,2025-08-02,878
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,Sweets,"Fruit Burfi",122.86,5,19,2025-01-03,879
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,Packed,"Sohan Cake (250 Gms)",138.09,5,2,2025-01-14,880
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,Sweets,"Kesar Peda",138.10,5,77,2025-05-03,881
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,Packed,"Sohan Cake (400 Gms)",219.04,5,2,2025-08-06,882
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,Sweets,"Malai Peda",138.10,5,52,2025-02-19,883
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,Sweets,"Coconut Burfi",122.86,4,137,2025-01-12,884
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,Sweets,"Mango Burfi",122.86,5,38,2025-07-12,885
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,Sweets,"Khajur Burfi",146.67,5,12,2025-02-23,886
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,Sweets,"Kaju Mysore Paak",146.67,5,4,2025-08-24,887
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,Sweets,"Kaju Phool",221.90,5,52,2025-05-13,888
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,Packed,"Til Revadi (200 Gms)",104.76,5,11,2025-01-28,889
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,Sweets,"Moti Sandwich",138.10,5,13,2025-08-10,890
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,Packed,"Til Revadi 200g",104.76,5,2,2025-08-03,891
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,Sweets,Jahangir,80.95,4,117,2025-08-10,892
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,Breads,"Sweet Bread",56.00,5,68,2025-02-16,893
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,Sweets,"Sweet Boondi",75.24,5,145,2025-02-26,894
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,Breads,"Plain Bread",52.00,5,31,2025-08-04,895
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,Sweets,"Milk Fruit",138.10,5,20,2025-05-25,896
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,Breads,"Brown Bread",62.00,5,22,2025-05-10,897
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,Sweets,"Moti Paak",122.86,5,1,2025-04-22,898
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,Cakes,"Fruit Cake [250 gms]",169.49,4,0,2025-04-19,899
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,Sweets,"Pineapple Burfi",122.86,5,23,2025-02-16,900
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,Cakes,"Plum Cake",190.68,5,17,2025-06-03,901
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,Sweets,"Malt Burfi",122.86,5,24,2025-05-31,902
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,Cakes,"Pineapple Cake (200 Gms)",127.12,4,5,2025-01-14,903
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,Sweets,"White Soan Papdi",122.86,5,61,2025-07-26,904
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,Cakes,"Chocolate Cupcake",76.27,5,4,2025-07-06,905
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,Sweets,"Dharwad Peda",122.86,5,60,2025-08-17,906
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,Cakes,"Dryfruit Muffin",118.64,4,0,2025-02-25,907
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,Sweets,"Kaju Katli",200.95,5,0,2025-02-16,908
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,"Rusk And Khari","Sweet Rusk (250 Gms)",119.05,5,24,2025-04-25,909
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,Sweets,"Kaju Katori",221.90,4,27,2025-05-22,910
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,"Rusk And Khari","Rava Rusk (200 Gms)",100.00,5,1,2025-01-07,911
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,Sweets,"Kaju Soan Papdi",146.67,5,129,2025-02-16,912
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,"Rusk And Khari","Plain Khari (150 Gms)",71.43,4,5,2025-01-03,913
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,Sweets,"Doodh Halwa",138.10,4,17,2025-02-16,914
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,"Rusk And Khari","Methi Khari (250 Gms)",119.05,5,5,2025-04-21,915
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,Snacks,"Plain Kachori",35.24,5,217,2025-05-31,916
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,Snacks,"Plain Samosa",35.24,4,455,2025-08-26,917
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,Snacks,Rasmalai,52.38,5,914,2025-04-17,918
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,Sweets,"Bombay Halwa",122.86,5,127,2025-06-28,919
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,Snacks,"Jamun (1 Pc)",35.24,4,83,2025-08-27,920
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,Sweets,"Ghee Jalebi",104.76,4,181,2025-04-13,921
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,Snacks,"Rasgulla (1 Pc)",35.24,5,118,2025-08-25,922
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,Sweets,Jalebi,75.24,5,170,2025-06-15,923
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,Snacks,"Veg Puff",35.24,5,151,2025-01-18,924
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,Sweets,"Badam Halwa",200.95,4,3,2025-07-11,925
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,Snacks,Chenapais,58.10,4,31,2025-02-07,926
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,Sweets,"Kalakand Burfi",122.86,4,106,2025-08-14,927
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,Snacks,"Babycorn Puff",37.14,5,22,2025-08-15,928
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,Sweets,"Anjeer Dry Fruit Burfi",221.90,5,8,2025-02-07,929
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,Snacks,"Cream Bun",35.24,4,14,2025-04-25,930
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,Snacks,"Jam Bun",24.76,4,9,2025-01-15,931
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,Snacks,"Paneer Pizza",70.48,5,9,2025-07-11,932
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,Sweets,"Black And White",138.10,5,18,2025-02-19,933
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,Snacks,"Dil Pasand",35.24,4,7,2025-08-05,934
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,Snacks,"Potato Chips Khara 100 Gms",66.96,5,36,2025-04-29,935
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,Snacks,"Potato Chips Salt 100 Gms",66.96,5,24,2025-08-17,936
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,Sweets,"Kaju Dry Fruit Katori",221.90,5,12,2025-04-08,937
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,Snacks,"Masala Popcorn 30 Gms",38.10,4,6,2025-01-28,938
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,Sweets,"Ordinary Laddu",80.95,3,4,2025-02-16,939
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,Sweets,"Kaju Choco Phool",221.90,4,0,2025-01-30,940
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,Snacks,"Salted Popcorn 30 Gms",38.10,5,6,2025-07-21,941
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,Snacks,"Masala Makhana 70 Gms",209.52,5,3,2025-02-08,942
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,Snacks,"Salted Makhana 70 Gms",209.52,5,1,2025-07-04,943
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,Snacks,"Methi Makhana 70 Gms",209.52,4,0,2025-01-17,944
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,Beverages,"Badam Milk",66.07,5,112,2025-08-19,945
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,Chocolates,"Strawberry Yogurt Chocolate",27.12,4,0,2025-02-16,946
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,Chocolates,"Mango Saffron Chocolate",27.12,4,1,2025-08-06,947
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,Chocolates,"Expresso Shots Chocolate",31.36,5,3,2025-05-06,948
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,Chocolates,"Dolce Pyramid Chocolate",27.12,4,1,2025-02-13,949
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,Chocolates,"Brownie Delight Chocolate",27.12,4,1,2025-01-25,950
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,Chocolates,"Pistachio Saffron Chocolate",31.36,5,4,2025-05-25,951
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,Chocolates,"Berry Yogurt Chocolate",31.36,4,1,2025-01-13,952
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,Chocolates,"Mint Splash Chocolate",31.36,4,1,2025-07-31,953
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,Chocolates,"Hazelnut Praline Chocolate",31.36,4,2,2025-01-25,954
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,Chocolates,"Laevant Apricot Saf Choc",27.12,4,1,2025-02-16,955
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,Chocolates,"Cappuccino Cream Chocolate",31.36,4,0,2025-05-18,956
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,Chocolates,"Caramel Sea Salt Choc",31.36,4,0,2025-02-16,957
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,Chocolates,"Celestial Dark Chocolate",135.59,4,1,2025-08-21,958
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,Chocolates,"Celestial Milk Chocolate",135.59,4,0,2025-04-19,959
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,Chocolates,"Celestial Blush Chocolate",135.59,4,0,2025-05-26,960
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,Chocolates,"Hot Chocolate Brownie",110.17,5,3,2025-04-21,961
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,Chocolates,"Vegan Chocolate",118.64,4,0,2025-08-16,962
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,Chocolates,"Choco Delights",237.28,4,0,2025-04-21,963
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,Doughnut,"Chocolate Doughnut",39.83,5,18,2025-08-02,964
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,"Crossiants  & Rolls","Butter Veg Croissant",47.32,3,3,2025-02-03,965
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,Sweets,"Kaju Rim Jhim",221.90,5,2,2025-02-16,966
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,"Crossiants  & Rolls","Butter Chocolate Cream Roll",35.59,5,5,2025-04-21,967
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,"Crossiants  & Rolls","Butter Cream Roll",31.36,5,4,2025-01-08,968
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,Sweets,Pheni,165.71,5,79,2025-04-01,969
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,"Crossiants  & Rolls","Butter Croissant",37.50,4,0,2025-06-17,970
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,Saffron,Saffron,580.95,4,0,2025-04-23,971
+Karnataka,Bengaluru,"Polar Bear","Rajarajeshwari Nagar",Recommended,"Red Velvet Choco Sin  Sundae",221.00,4,104,2025-08-24,972
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,Sweets,Chiroti,99.05,4,21,2025-06-28,973
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,Sweets,"Gondh Laddu",138.10,5,15,2025-07-10,974
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,Sweets,"Ghee Laddu",122.86,5,247,2025-08-14,975
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,Sweets,"Mysore Paak",122.86,4,6,2025-02-21,976
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,Sweets,"Dry Fruit Halwa",138.10,5,16,2025-06-15,977
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,Sweets,"Kashmir Kalakand Burfi",138.10,5,128,2025-08-13,978
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,Sweets,"Motichoor Laddu",138.10,5,240,2025-08-04,979
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,Sweets,"Kaju Apple",200.95,5,23,2025-02-16,980
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,Sweets,"Kaju Gujiya",221.90,4,37,2025-01-30,981
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,Sweets,"Besan Laddu",122.86,5,121,2025-04-16,982
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,Sweets,"Special Mysore Paak",138.10,5,27,2025-02-20,983
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,Sweets,"Dry Fruit Bite Mix",237.14,5,23,2025-02-16,984
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,Sweets,"Kaju Roll",370.48,5,65,2025-05-13,985
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,Sweets,"Kaju Sonpapdi",244.76,5,2,2025-01-29,986
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,Sweets,"Gud Sandesh",230.48,5,11,2025-05-12,987
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,Sweets,"Mava Kajur Burfi",204.76,4,1,2025-05-18,988
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,Sweets,"Blueberry Burfi",204.76,4,2,2025-07-03,989
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,Sweets,"Strawberry Burfi",204.76,4,0,2025-05-25,990
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,Sweets,"Khova Lachha Burfi",204.76,5,1,2025-02-16,991
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,Sweets,"Mava Anjeer Burfi",204.76,4,0,2025-01-17,992
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,Sweets,"Sohan Halwa",244.76,5,9,2025-02-16,993
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,Sweets,"Mini Jahangir",135.24,4,14,2025-08-04,994
+Karnataka,Bengaluru,"Polar Bear","Rajarajeshwari Nagar",Recommended,"Tropical dry Fruit Medley Sundae",251.00,5,10,2025-02-16,995
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,Sweets,"Gulab Papdi",244.76,5,2,2025-02-16,996
+Karnataka,Bengaluru,"Polar Bear","Rajarajeshwari Nagar",Recommended,"Naturally Chikku N Dry Fruit Sundae",251.00,4,10,2025-02-11,997
+Karnataka,Bengaluru,"Polar Bear","Rajarajeshwari Nagar",Recommended,"Naturally Jaggery Almond Fusion sundae",251.00,5,14,2025-06-18,998
+Karnataka,Bengaluru,"Polar Bear","Rajarajeshwari Nagar",Recommended,"Biscoff Coffee Shot",209.00,5,1,2025-04-11,999
+Karnataka,Bengaluru,"Kanti Sweets",Kengeri,Sweets,"Gud Kaju Katli",350.48,4,0,2025-02-03,1000
