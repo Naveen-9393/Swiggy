@@ -1,4 +1,4 @@
-#Swiggy Category-Wise Food Items, Pricing & Total Revenue Analysis – Swiggy (MySQL Project)
+Swiggy Category-Wise Food Items, Pricing & Total Revenue Analysis – Swiggy (MySQL Project)
 
 
 ## key mentrics
